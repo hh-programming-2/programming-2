@@ -106,7 +106,7 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
 -----
 
-### [](#) Viikko 5: Streamit ja lambdat
+### Week 5: Streams and lambdas
 
 > *"The **Stream API** is probably the second most important feature added to Java SE 8, after the **lambda expressions**. In a nutshell, the Stream API is about providing an implementation of the well known map-filter-reduce algorithm to the JDK.*
 >
@@ -114,42 +114,42 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 >
 > Processing Data in Memory Using the Stream API. https://dev.java/learn/api/streams/map-filter-reduce/
 
-**Suositellut materiaalit**
+#### Recommended materials
 
-* [The Stream API (dev.java)](https://dev.java/learn/api/streams/)
-* [Lambda Expressions in Java (Coding with John, YouTube)](https://youtu.be/tj5sLSFjVj4)
-* [Optionals In Java (Coding with John, YouTube)](https://youtu.be/vKVzRbsMnTQ)
-* [Java 8 STREAMS Tutorial (Oggi AI, YouTube)](https://youtu.be/t1-YZ6bF-g0)
-* [The Java 8 Stream API Tutorial (baeldung.com)](https://www.baeldung.com/java-8-streams)
-* [Ohjelmointi 2 kurssin stream-lambda-materiaali](https://ohjelmointi2.github.io/stream-lambda)
+- [The Stream API (dev.java)](https://dev.java/learn/api/streams/)
+- [Lambda Expressions in Java (Coding with John, YouTube)](https://youtu.be/tj5sLSFjVj4)
+- [Optionals In Java (Coding with John, YouTube)](https://youtu.be/vKVzRbsMnTQ)
+- [Java 8 STREAMS Tutorial (Oggi AI, YouTube)](https://youtu.be/t1-YZ6bF-g0)
+- [The Java 8 Stream API Tutorial (baeldung.com)](https://www.baeldung.com/java-8-streams)
+- [Ohjelmointi 2 kurssin stream-lambda-materiaali](https://ohjelmointi2.github.io/stream-lambda)
 
-**Tehtävät (DL 26.11. klo 22)**
-
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
-
-* Streams and Lambdas
-
------
-
-### [](#) Viikko 6: JDBC & DAO
-
-Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjelmasta käsin ja tekemään yksinkertaisia CRUD-toimenpiteitä (Create, Read, Update & Delete). Tustumme myös DAO-kehitysmalliin, jossa sekä tietokantaoperaatiot ja tietokannan sisältämä data mallinnetaan Java-luokkien avulla.
-
-**Suositellut materiaalit**
-
-* [Java Database Connectivity (Telusko, YouTube)](https://youtu.be/7v2OnUti2eM)
-* [Introduction to JDBC (baeldung.com)](https://www.baeldung.com/java-jdbc)
-* [Ohjelmointi 2 kurssin JDBC-materiaali, osin hieman vanhentunutta](https://ohjelmointi2.github.io/tietokannat/)
-
-**Tehtävät (DL 3.12. klo 22)**
+#### Exercises (DL 26.11. klo 22)
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
-* SQL databases (Chinook, JDBC & DAO)
+- Streams and Lambdas
 
 -----
 
-### [](#) Viikko 7: Tietorakenteet ja algoritmit
+### Week 6: JDBC & DAO
+
+This week, we will start by learning how to establish a connection to a database from a Java program and perform basic CRUD operations (Create, Read, Update, & Delete). We will also explore the DAO (Data Access Object) design pattern, which models both database operations and the data contained in the database using Java classes.
+
+#### Recommended materials
+
+- [Java Database Connectivity (Telusko, YouTube)](https://youtu.be/7v2OnUti2eM)
+- [Introduction to JDBC (baeldung.com)](https://www.baeldung.com/java-jdbc)
+- [Ohjelmointi 2 kurssin JDBC-materiaali, osin hieman vanhentunutta](https://ohjelmointi2.github.io/tietokannat/)
+
+#### Exercises (DL 3.12. klo 22)
+
+Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+
+- SQL databases (Chinook, JDBC & DAO)
+
+-----
+
+### Week 7: Data structures and algorithms
 
 > *"Algoritmi (algorithm) on toimintaohje, jota seuraamalla voimme ratkaista jonkin laskennallisen ongelman. Algoritmille annetaan syöte (input), joka kuvaa ratkaistavan ongelman tapauksen, ja algoritmin tulee tuottaa tuloste (output), joka on vastaus sille annettuun syötteeseen"*
 >

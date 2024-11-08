@@ -190,7 +190,7 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
 -----
 
-### [](#) Viikko 8: Syventävät ja soveltavat aiheet
+### Week 8: Syventävät ja soveltavat aiheet
 
 Kurssin lopussa syvennämme ja sovellamme aikaisempia aiheita, ja perehdymme mm. rinnakkaisuuden ja rekursion käsitteisiin.
 
@@ -212,25 +212,15 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
 &nbsp;
 
-## [](#) ✅ Osallistumisen vahvistaminen
+## ✅ Confirming course participation
 
-**Kurssin osallistumisen vahvistaminen edellyttää ensimmäisen viikon tehtävien palauttamista määräaikaan mennessä.** Ensimmäiset tehtävät ovat luonteeltaan aikaisempaa osaamista kertaavia ja tehtäviin on saatavissa vinkkejä sekä tukea kurssin keskustelukanavalla.
+**To confirm your course participation, it is necessary to submit the firt week's exercises before the deadline.** The first week's exercises will revisit topics you have learned previously. The purpose of this practice is not to stop anyone from learning or completing the course but to make sure that everyone can get started with the course without problems.
 
-> *"Opiskelija vahvistaa paikkansa opintojaksototeutuksella olemalla läsnä opetuksen alkaessa tai muutoin opettajan ilmoittamalla tavalla, joka voi esimerkiksi olla ensimmäisen oppimistehtävän palautus."*
->
-> [Tutkintosääntö](https://www.haaga-helia.fi/fi/tutkintosaanto-noudatettavat-normit-ja-muutoksenhaku)
+## 💬 Communication channels
 
-Tämän käytännön ei ole tarkoitus estää ketään opiskelemasta tai suorittamasta kurssia, vaan sen on tarkoitus varmistaa, että kurssi lähtee kaikilla onnistuneesti käyntiin.
+Course-related discussion is organized in Teams. If you are stuck with your code or you don't understand the materials or exercises, don't hesitate to ask for help. It is likely that other students have similar issues, so send your questions to the course channel for others to learn as well instead of as a private message.
 
-Kurssin keskeyttäminen ei ole [Haaga-Helian linjauksia](https://mynet.haaga-helia.fi/group/pakki/toteutukselle-ilmoittautuminen) noudattaen mahdollista enää osallistumisen vahvistamisen jälkeen.
-
-
-## [](#) 💬 Viestintäkanavat
-
-Tällä toteutuksella viestintä tapahtuu MS Teams -palvelussa. Jos jäät jumiin koodisi kanssa tai et ymmärrä materiaaleja tai tehtävänantoja, kysy rohkeasti vinkkejä. Todennäköisesti samaa ongelmaa pohtii kanssasi myös moni muu, joten lähetäthän sisältöä ja tehtävänantoja koskevat kysymykset yhteiselle kanavalle eikä yksityisviestinä.
-
-
-## [](#) 📥 Palautettavat tehtävät
+## 📥 Submitting exercises
 
 Kurssilla on viikoittaisia tehtäviä, jotka tulee palauttaa annettuihin määräaikoihin mennessä. Tehtävät löytyvät Teamsista, ja ne palautetaan GitHubiin. Apua tehtävien tekoon on saatavissa kurssin keskustelukanavalla niin opettajalta kuin muiltakin opiskelijoilta.
 

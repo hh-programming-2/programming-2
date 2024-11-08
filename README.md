@@ -212,7 +212,7 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
 -----
 
-## ✅ Confirming course participation
+## ✅ Confirming the course participation
 
 **To confirm your course participation, it is necessary to submit the firt week's exercises before the deadline.** The first week's exercises will revisit topics you have learned previously. The purpose of this practice is not to stop anyone from learning or completing the course but to make sure that everyone can get started with the course without problems.
 

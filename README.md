@@ -6,7 +6,7 @@ Welcome to the Programming 2 course! 👋 In this course, we will deepen our pro
 
 The course requirements include weekly exercises covering different areas of the course. GitHub Classroom and a Teams group will be used for the technical implementation of the assignments. Assignments must be submitted according to the schedule, and late submissions will generally not be accepted. In cases of force majeure, extensions must be requested well in advance of the assignment deadline.
 
-[Linkki tunnilla läpikäytyihin koodiesimerkkeihin](https://github.com/javakurssi/Tuntimateriaalit)
+[Here are the code examples covered during the lessons](https://github.com/hh-programming-2)
 
 
 ### [](#) Viikko 1: Versionhallinta ja kurssin työkalut

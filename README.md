@@ -1,50 +1,48 @@
-# [](#) Programming 2
+# Programming 2
 
 Welcome to the Programming 2 course! 👋 In this course, we will deepen our programming skills and apply previously learned programming techniques, including in the context of databases. In addition to syntax and necessary libraries, we will focus on unit testing, automation tools, and version control.
 
-## [](#) The weekly schedule
+## Weekly schedule
 
 The course requirements include weekly exercises covering different areas of the course. GitHub Classroom and a Teams group will be used for the technical implementation of the assignments. Assignments must be submitted according to the schedule, and late submissions will generally not be accepted. In cases of force majeure, extensions must be requested well in advance of the assignment deadline.
 
 [Here are the code examples covered during the lessons](https://github.com/hh-programming-2/lessons)
 
 
-### [](#) Viikko 1: Versionhallinta ja kurssin työkalut
+### Week 1: Version control and tools of the course
 
-Kurssin ensimmäisellä viikolla tutustumme työkaluihin, joita tulemme hyödyntämään koko loppukurssin ajan. Tavoitteenamme on, että sovellusta voidaan suorittaa suoraviivaisesti myös koodieditorin ulkopuolella ja että sovelluksen kääntäminen, riippuvuuksien asentaminen, paketointi sekä testaaminen voidaan tarvittaessa automatisoida.
+In the first week of the course, we will get acquainted with the tools we will be using throughout the remainder of the course. Our goal is to enable the application to run smoothly outside of the code editor and to automate, if needed, the building, dependency installation, packaging, and testing of the application.
 
-Git-versionhallintaa käytetään tällä kurssilla tehtävien jakeluun, niiden palauttamiseen sekä automaattiseen arviointiin. Myöhemmillä kursseilla ja työelämässä tulet todennäköisesti käyttämään versionhallintaa oleellisena osana jokapäiväistä työskentelyä.
+Git version control will be used in this course for distributing assignments, submitting them, and for automatic evaluation. In future courses and in working life, you will likely use version control as an essential part of daily work.
 
-Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoitteena on, että kaikilla osallistujilla on ensimmäisen viikon jälkeen riittävä lähtötaso mm. kokoelmista ja olio-ohjelmoinnista seuraavien aiheiden opiskelemiseksi.
+The course's Java content revisits topics covered in Programming 1, aiming to ensure that by the end of the first week, all participants have a sufficient foundation in topics like collections and object-oriented programming to study the subsequent topics.
 
-**Suositellut materiaalit**
+**Recommended materials**
 
-*Komentorivi/terminaali*
+*Command-line/terminal*
 
 > *"In your development process, you'll undoubtedly be required to run some commands in the terminal (or on the "command line" — these are effectively the same thing). This article provides an introduction to the terminal, the essential commands you'll need to enter into it, how to chain commands together, and how to add your own command line interface (CLI) tools."*
 >
 > [Command line crash course. mdn web docs.](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
 
-
 *Git*
 
-* [What is version control? (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-version-control). Katso myös [video](https://youtu.be/xQujH0ElTUg).
-* [What is Git (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-git)
-* [Install Git (Atlassian)](https://www.atlassian.com/git/tutorials/install-git)
-* [Git add](https://www.atlassian.com/git/tutorials/saving-changes)
-* [Git Cheat Sheet, pdf (GitHub)](https://education.github.com/git-cheat-sheet-education.pdf)
+- [What is version control? (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-version-control). Katso myös [video](https://youtu.be/xQujH0ElTUg).
+- [What is Git (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-git)
+- [Install Git (Atlassian)](https://www.atlassian.com/git/tutorials/install-git)
+- [Git add](https://www.atlassian.com/git/tutorials/saving-changes)
+- [Git Cheat Sheet, pdf (GitHub)](https://education.github.com/git-cheat-sheet-education.pdf)
 
 *Gradle*
 
 * [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
 
-**Tehtävät (DL 29.10. klo 22)**
+**Exercises (DL 29.10. klo 22)**
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
-* Git "Hello world"
-* Warming up (kurssin lämmittelytehtävät)
-
+- Git "Hello world"
+- Warming up (the warm-up exercises for the course)
 
 ----
 

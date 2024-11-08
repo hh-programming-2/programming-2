@@ -27,7 +27,7 @@ Command-line/terminal:
 
 Git:
 
-- [What is version control? (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-version-control). Katso myös [video](https://youtu.be/xQujH0ElTUg).
+- [What is version control? (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-version-control). Also, check the following [video](https://youtu.be/xQujH0ElTUg).
 - [What is Git (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-git)
 - [Install Git (Atlassian)](https://www.atlassian.com/git/tutorials/install-git)
 - [Git add](https://www.atlassian.com/git/tutorials/saving-changes)
@@ -46,30 +46,30 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
 ----
 
-### [](#) Viikko 2: Map-tietorakenne
+### Week 2: The Map data structuce
 
-> *"Hajautustaulu eli HashMap on ArrayListin lisäksi eniten käytettyjä Javan valmiiksi tarjoamia tietorakenteita. Hajautustaulua käytetään kun tietoa käsitellään avain-arvo -pareina, missä avaimen perusteella voidaan lisätä, hakea ja poistaa arvo."*
+> *"Maps are data structures stores a collection of key-value pairs. Each key is unique and allows for quick access to values. A real life example of a map could be storing the grades for students in a class (student name is key, grade is value)."*
 >
-> [*Agile Education Research –tutkimusryhmä, mooc.fi*](https://ohjelmointi-20.mooc.fi/osa-8/2-hajautustaulu)
+> [*Data Structures & Algorithms, Google*](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 
-**Suositellut materiaalit**
+#### Recommended materials
 
-* [Map and HashMap in Java (Coding with John, YouTube)](https://youtu.be/H62Jfv1DJlU)
-* [Using Maps to Store Key Value Pairs (dev.java)](https://dev.java/learn/api/collections-framework/maps/)
-* [Managing the Content of a Map (dev.java)](https://dev.java/learn/api/collections-framework/working-with-keys-and-values/)
-* [Ohjelmointi 2 kurssin map-materiaali](https://ohjelmointi2.github.io/map/)
+- [Map and HashMap in Java (Coding with John, YouTube)](https://youtu.be/H62Jfv1DJlU)
+- [Using Maps to Store Key Value Pairs (dev.java)](https://dev.java/learn/api/collections-framework/maps/)
+- [Managing the Content of a Map (dev.java)](https://dev.java/learn/api/collections-framework/working-with-keys-and-values/)
+- [Ohjelmointi 2 kurssin map-materiaali](https://ohjelmointi2.github.io/map/)
 
-**Tehtävät (DL 5.11. klo 22)**
+#### Exercises (DL 5.11. klo 22)
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
-* Map exercises
+- Map exercises
 
 ----
 
-### [](#) Viikko 3: Yksikkötestaus
+### Week 3: Unit testing
 
-Tällä viikolla tutustumme JUnit-yksikkötestaukseen ja kirjoitamme omia yksikkötestejä valmiille koodille.
+This week, we will get familiar with JUnit unit testing and write our own unit tests for existing code.
 
 **Suositellut materiaalit**
 

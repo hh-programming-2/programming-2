@@ -222,28 +222,27 @@ Course-related discussion is organized in Teams. If you are stuck with your code
 
 ## 📥 Submitting exercises
 
-Kurssilla on viikoittaisia tehtäviä, jotka tulee palauttaa annettuihin määräaikoihin mennessä. Tehtävät löytyvät Teamsista, ja ne palautetaan GitHubiin. Apua tehtävien tekoon on saatavissa kurssin keskustelukanavalla niin opettajalta kuin muiltakin opiskelijoilta.
-
+The course has weekly exercises which need to be submitted before the deadline. Exercises will be submitted to GitHub. Don't hesitate to ask for help with the exercises during the lessons or in Teams from the teacher or your fellow students.
 
 ## 📊 Assesment
 
-Kurssi arvioidaan asteikolla 0-5. Kurssin loppuarvosana lasketaan kurssin tehtävien keskiarvosta siten, että jokaisen viikon tehtävillä on sama painoarvo. Yksittäisten tehtävien arvosanoja ei pyöristetä, vaan mahdollinen pyöristys tehdään vasta loppuarvosanaa laskettaessa.
+The course assesment is done with 0-5 grading scale. The final grade is calculated from the exercises' average so that each week's exercises have the same weight. Grades from individual exercises aren't rounded, but the possible rounding is done only once the final grade is calculated.
 
 
-## [](#) ⏱️ Kurssin työmäärä
+## ⏱️ Workload
 
-Opintojakso kestää 8 viikkoa ja on laajuudeltaan 5 opintopistettä, joten sen [laskennallinen työmäärä on noin 135 tuntia](https://www.haaga-helia.fi/fi/ects-jarjestelma-ja-tutkintotodistuksen-liite-eli-diploma-supplement). Ttyömäärä vastaa laskennallisesti noin 17 tuntia viikossa, joten **varaa kurssin suorittamiseen runsaasti aikaa joka viikko**:
+The course lasts 8 weeks and is worth 5 credits. This means that the official workload in hours is around 135 hours, which responds to around 17 hours a week. That being said, reserve enough time for course each week.
 
 ```java
-int kestoViikkoina = 8;
-int opintopisteita = 5;
-int tyomaaraPerPiste = 27;
+int durationInWeeks = 8;
+int credits = 5;
+int workHoursForOneCredit = 27;
 
-int kokonaistyomaara = opintopisteita * tyomaaraPerPiste;
-System.out.println(kokonaistyomaara); // 135 tuntia
+int totalWorkHours = credits * workHoursForOneCredit;
+System.out.println(totalWorkHours); // 135 hours
 
-double tyomaaraPerViikko = 1.0 * kokonaistyomaara / kestoViikkoina;
-System.out.println(tyomaaraPerViikko); // 16.875 tuntia per viikko
+double workHoursForOneWeek = 1.0 * totalWorkHours / durationInWeeks;
+System.out.println(workHoursForOneWeek); // 16.875 hours a week
 ```
 
 

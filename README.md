@@ -1,6 +1,6 @@
 # [](#) Programming 2
 
-In this course, we will deepen our programming skills and apply previously learned programming techniques, including in the context of databases. In addition to syntax and necessary libraries, we will focus on unit testing, automation tools, and version control.
+Welcome to the Programming 2 course! 👋 In this course, we will deepen our programming skills and apply previously learned programming techniques, including in the context of databases. In addition to syntax and necessary libraries, we will focus on unit testing, automation tools, and version control.
 
 ## [](#) The weekly schedule
 

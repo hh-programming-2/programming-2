@@ -17,15 +17,15 @@ Git version control will be used in this course for distributing assignments, su
 
 The course's Java content revisits topics covered in Programming 1, aiming to ensure that by the end of the first week, all participants have a sufficient foundation in topics like collections and object-oriented programming to study the subsequent topics.
 
-**Recommended materials**
+#### Recommended materials
 
-*Command-line/terminal*
+Command-line/terminal:
 
 > *"In your development process, you'll undoubtedly be required to run some commands in the terminal (or on the "command line" — these are effectively the same thing). This article provides an introduction to the terminal, the essential commands you'll need to enter into it, how to chain commands together, and how to add your own command line interface (CLI) tools."*
 >
 > [Command line crash course. mdn web docs.](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
 
-*Git*
+Git:
 
 - [What is version control? (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-version-control). Katso myös [video](https://youtu.be/xQujH0ElTUg).
 - [What is Git (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-git)
@@ -33,11 +33,11 @@ The course's Java content revisits topics covered in Programming 1, aiming to en
 - [Git add](https://www.atlassian.com/git/tutorials/saving-changes)
 - [Git Cheat Sheet, pdf (GitHub)](https://education.github.com/git-cheat-sheet-education.pdf)
 
-*Gradle*
+Gradle:
 
-* [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
+- [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
 
-**Exercises (DL 29.10. klo 22)**
+#### Exercises (DL 29.10. klo 22)
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 

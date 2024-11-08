@@ -71,38 +71,38 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
 This week, we will get familiar with JUnit unit testing and write our own unit tests for existing code.
 
-**Suositellut materiaalit**
+#### Recommended materials
 
-* [JUnit 5 User Guide (junit.org)](https://junit.org/junit5/docs/current/user-guide/)
-* [Java Unit Testing with JUnit (Coding with John, YouTube)](https://youtu.be/vZm0lHciFsQ)
-* [Johdatus ohjelmien testaamiseen (mooc.fi)](https://ohjelmointi-20.mooc.fi/osa-6/3-johdatus-ohjelmien-testaamiseen)
-* [Ohjelmointi 2 kurssin JUnit materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/testaus/)
+- [JUnit 5 User Guide (junit.org)](https://junit.org/junit5/docs/current/user-guide/)
+- [Java Unit Testing with JUnit (Coding with John, YouTube)](https://youtu.be/vZm0lHciFsQ)
+- [Johdatus ohjelmien testaamiseen (mooc.fi)](https://ohjelmointi-20.mooc.fi/osa-6/3-johdatus-ohjelmien-testaamiseen)
+- [Ohjelmointi 2 kurssin JUnit materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/testaus/)
 
-**Tehtävät (DL 12.11. klo 22)**
+#### Exercises (DL 12.11. klo 22)
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
-* JUnit exercise
+- JUnit exercise
 
 ----
 
-### [](#) Viikko 4: Perintä ja rajapinnat
+### Week 4: Inheritance and interfaces
 
-Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintään ja rajapintoihin. Perintä ja rajapinnat ovat olio-ohjelmoinnin ratkaisuja koodin uudelleenkäytettävyyden ja yhteensopivuuden edistämiseksi.
+This week, we will deepen our object-oriented programming skills by exploring inheritance and interfaces. Inheritance and interfaces are object-oriented solutions that promote code reusability and compatibility.
 
-**Suositellut materiaalit**
+#### Recommended materials
 
-* [Objects, Classes, Interfaces, Packages, and Inheritance (dev.java)](https://dev.java/learn/oop/)
-* [Java Polymorphism Fully Explained In 7 Minutes (Coding with John, YouTube)](https://youtu.be/jhDUxynEQRI)
-* [Super Keyword in Java Full Tutorial - How to Use "super" (Coding with John, YouTube)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)
-* [Perintä ja rajapinnat (mooc.fi)](https://ohjelmointi-20.mooc.fi/osa-9)
-* [Ohjelmointi 2 kurssin perintä ja rajapinnat materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/perint%C3%A4-ja-rajapinnat/)
+- [Objects, Classes, Interfaces, Packages, and Inheritance (dev.java)](https://dev.java/learn/oop/)
+- [Java Polymorphism Fully Explained In 7 Minutes (Coding with John, YouTube)](https://youtu.be/jhDUxynEQRI)
+- [Super Keyword in Java Full Tutorial - How to Use "super" (Coding with John, YouTube)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)
+- [Perintä ja rajapinnat (mooc.fi)](https://ohjelmointi-20.mooc.fi/osa-9)
+- [Ohjelmointi 2 kurssin perintä ja rajapinnat materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/perint%C3%A4-ja-rajapinnat/)
 
-**Tehtävät (DL 19.11. klo 22)**
+#### Exercises (DL 19.11. klo 22)
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
-* Interfaces and inheritance
+- Interfaces and inheritance
 
 -----
 

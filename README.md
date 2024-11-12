@@ -245,21 +245,21 @@ System.out.println(workHoursForOneWeek); // 16.875 hours a week
 ```
 
 
-## [](#) 🔍 Tiedon etsiminen
+## 🔍 Finding information
 
 Tämän kurssin materiaali perustuu suurelta osin valmiisiin netistä löytyviin dokumentaatioihin ja tutoriaaleihin. Eri aihealueiden yhteydessä tarjotaan linkkejä aihetta koskeviin materiaaleihin, mutta **joudut sen lisäksi merkittävissä määrin etsimään itse tietoa aiheista**.
 
 Kurssin tehtävien ei ole tarkoitus mitata, oletteko sisäistäneet oppitunnilla tai oppimateriaalissa esitetyt asiat, vaan tehtävien ratkaiseminen edellyttää itsenäistä tiedonhakua. Itsenäisen työskentelyn ohessa suosittelemme kysymään ja keskustelemaan aiheista kurssin Teams-kanvalla.
 
 
-## [](#) 📑 Lähteiden käyttäminen
+## 📑 Using sources of information
 
 Ohjelmointiongelmiin löytyy usein valmiita tai osittaisia ratkaisuja ympäri Internetiä niin keskustelupalstoilta kuin tutoriaaleista. Huonossa tapauksessa löydät toimivan ratkaisun ongelmaasi, mutta et osaa aivan tulkita mitä löytämäsi koodi tekee ja miksi se ratkaisee ongelmasi. Ammattimaisessa ohjelmistokehityksessä tästä seuraa mahdollisesti suuriakin vahinkoja.
 
 Nettilähteiden hyödyntäminen ja niistä mallin ottaminen on sallittua ja kannustettavaa, mutta et saa vain kopioida ratkaisuja, vaan sinun tulee ymmärtää, miten koodisi toimii. Lisäksi, erityisesti koska kyseessä on korkeakoulun opintojakso, sinun tulee merkitä lähteet lainatessasi esimerkiksi StackOverflow:sta löytämääsi koodia. Lähdeviitteeksi riittää esimerkiksi verkkosivun osoite Java-kommenttina lainatun koodin yhteydessä, tai käyttämäsi lähteen käyttöehtojen mukainen muu lähdeviite.
 
 
-## [](#) 🧠 Esitietovaatimukset
+## 🧠 Prerequisites
 
 > *"Opiskelija on suorittanut opintojakson Ohjelmointi 1 (SOF005AS2A/SWD4TN032) tai hänellä on vastaavat tiedot ja taidot. Opiskelija suorittaa samanaikaisesti opintojakson Tietokannat ja tiedonhallinta (SOF001AS2A/ SWD1TN003) tai hänellä on vastaavat tiedot ja taidot."*
 >

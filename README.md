@@ -249,17 +249,13 @@ System.out.println(workHoursForOneWeek); // 16.875 hours a week
 
 This course material is mostly based on external online resources, such as documentation and tutorials. Each topic contains links to relevant materials but **you will also need to find relevant resources yourself**.
 
-The purpose of course's exercises isn't to measure whether you have grasped 
-
-The purpose of the course exercises is not to assess whether you have understood the material presented in the lessons or learning materials; rather, solving the exercises requires independent information gathering. Alongside working independently, we recommend asking questions and discussing topics on the course's Teams channel.
-
+The purpose of the course exercises is not only to assess whether you have understood the material presented in the lessons or learning materials; rather, solving the exercises requires independent information gathering. Alongside working independently, we recommend asking questions and discussing topics on the course's Teams channel.
 
 ## 📑 Using sources of information
 
-Ohjelmointiongelmiin löytyy usein valmiita tai osittaisia ratkaisuja ympäri Internetiä niin keskustelupalstoilta kuin tutoriaaleista. Huonossa tapauksessa löydät toimivan ratkaisun ongelmaasi, mutta et osaa aivan tulkita mitä löytämäsi koodi tekee ja miksi se ratkaisee ongelmasi. Ammattimaisessa ohjelmistokehityksessä tästä seuraa mahdollisesti suuriakin vahinkoja.
+Programming problems often have ready-made or partial solutions available across the Internet, from forums to tutorials. In the worst case, you might find a solution that works for your problem but don't fully understand what the code does or why it solves the issue. In professional software development, this can lead to potentially serious consequences.
 
-Nettilähteiden hyödyntäminen ja niistä mallin ottaminen on sallittua ja kannustettavaa, mutta et saa vain kopioida ratkaisuja, vaan sinun tulee ymmärtää, miten koodisi toimii. Lisäksi, erityisesti koska kyseessä on korkeakoulun opintojakso, sinun tulee merkitä lähteet lainatessasi esimerkiksi StackOverflow:sta löytämääsi koodia. Lähdeviitteeksi riittää esimerkiksi verkkosivun osoite Java-kommenttina lainatun koodin yhteydessä, tai käyttämäsi lähteen käyttöehtojen mukainen muu lähdeviite.
-
+Using online sources and drawing inspiration from them is allowed and encouraged, but you must not simply copy solutions; you need to understand how your code works. Additionally, especially since this is a university course, you are required to cite your sources when you borrow code, for example, from StackOverflow. An appropriate citation could be the webpage URL as a Java comment alongside the borrowed code, or another type of reference compliant with the source’s terms of use.
 
 ## 🧠 Prerequisites
 

@@ -226,7 +226,7 @@ The course has weekly exercises which need to be submitted before the deadline. 
 
 ## 📊 Assesment
 
-The course assesment is done with 0-5 grading scale. The final grade is calculated from the exercises' average so that each week's exercises have the same weight. Grades from individual exercises aren't rounded, but the possible rounding is done only once the final grade is calculated.
+The course assesment is based on the 0 to 5 grading scale. The final grade is calculated from the exercises' average so that each week's exercises have the same weight. Grades from individual exercises aren't rounded, but the possible rounding is done only once the final grade is calculated.
 
 ## ⏱️ Workload
 
@@ -247,9 +247,11 @@ System.out.println(workHoursForOneWeek); // 16.875 hours a week
 
 ## 🔍 Finding information
 
-Tämän kurssin materiaali perustuu suurelta osin valmiisiin netistä löytyviin dokumentaatioihin ja tutoriaaleihin. Eri aihealueiden yhteydessä tarjotaan linkkejä aihetta koskeviin materiaaleihin, mutta **joudut sen lisäksi merkittävissä määrin etsimään itse tietoa aiheista**.
+This course material is mostly based on external online resources, such as documentation and tutorials. Each topic contains links to relevant materials but **you will also need to find relevant resources yourself**.
 
-Kurssin tehtävien ei ole tarkoitus mitata, oletteko sisäistäneet oppitunnilla tai oppimateriaalissa esitetyt asiat, vaan tehtävien ratkaiseminen edellyttää itsenäistä tiedonhakua. Itsenäisen työskentelyn ohessa suosittelemme kysymään ja keskustelemaan aiheista kurssin Teams-kanvalla.
+The purpose of course's exercises isn't to measure whether you have grasped 
+
+The purpose of the course exercises is not to assess whether you have understood the material presented in the lessons or learning materials; rather, solving the exercises requires independent information gathering. Alongside working independently, we recommend asking questions and discussing topics on the course's Teams channel.
 
 
 ## 📑 Using sources of information

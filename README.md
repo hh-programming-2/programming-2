@@ -261,9 +261,9 @@ Nettilähteiden hyödyntäminen ja niistä mallin ottaminen on sallittua ja kann
 
 ## 🧠 Prerequisites
 
-> *"Opiskelija on suorittanut opintojakson Ohjelmointi 1 (SOF005AS2A/SWD4TN032) tai hänellä on vastaavat tiedot ja taidot. Opiskelija suorittaa samanaikaisesti opintojakson Tietokannat ja tiedonhallinta (SOF001AS2A/ SWD1TN003) tai hänellä on vastaavat tiedot ja taidot."*
+> *"The course prerequisite is that you have passed the course Programming 1 (SOF005AS2AE), or can demonstrate equivalent skills and knowledge prior commencing the course. We recommend that you take the course Data Management and Databases (SOF001AS2AE) alongside the Programming 2 course if you don't already have equivalent skills in basics of databases and SQL."*
 >
-> [*opintojaksokuvaus*](https://opinto-opas.haaga-helia.fi/course_unit/SOF001AS3A)
+> [*Course description*]([https://opinto-opas.haaga-helia.fi/course_unit/SOF001AS3A](https://opinto-opas.haaga-helia.fi/course_unit/SOF001AS3AE))
 
-Mikäli sinulla ei ole sujuvaa osaamista Ohjelmointi 1 -opintojaksolta, vaatii tämä kurssi erityisen paljon työtä ja omaa panostusta.
+If you haven't acquired solid skills from the Programming 1 course, this course will require a significant amount of work and personal effort.
 

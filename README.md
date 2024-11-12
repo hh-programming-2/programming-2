@@ -192,23 +192,23 @@ You can find the links to exercises in the exercises section in Teams.
 
 -----
 
-### Week 8: Syventävät ja soveltavat aiheet
+### Week 8: Advanced and applied Topics
 
-Kurssin lopussa syvennämme ja sovellamme aikaisempia aiheita, ja perehdymme mm. rinnakkaisuuden ja rekursion käsitteisiin.
+At the end of the course, we will deepen and apply previous topics, exploring concepts such as concurrency and recursion.
 
-**Suositellut materiaalit**
+#### Recommended materials
 
-* [Virtual Threads (dev.java)](https://dev.java/learn/new-features/virtual-threads/) 
-* [Lesson: Concurrency (docs.oracle.com)](https://docs.oracle.com/javase/tutorial/essential/concurrency/) 
-* [Java Concurrency (baeldung.com)](https://www.baeldung.com/java-concurrency) 
-* [Java Threads (w3schools.com)](https://www.w3schools.com/java/java_threads.asp)
-* [Ohjelmointi 2: rinnakkaisuus (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/rinnakkaisuus/)
+- [Virtual Threads (dev.java)](https://dev.java/learn/new-features/virtual-threads/) 
+- [Lesson: Concurrency (docs.oracle.com)](https://docs.oracle.com/javase/tutorial/essential/concurrency/) 
+- [Java Concurrency (baeldung.com)](https://www.baeldung.com/java-concurrency) 
+- [Java Threads (w3schools.com)](https://www.w3schools.com/java/java_threads.asp)
+- [Ohjelmointi 2: rinnakkaisuus (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/rinnakkaisuus/)
 
-**Tehtävät (DL 15.12. klo 22)**
+**Exercises (DL 15.12. at 22)**
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+You can find the links to exercises in the exercises section in Teams.
 
-* Commit history
+- Commit history
 
 -----
 
@@ -227,7 +227,6 @@ The course has weekly exercises which need to be submitted before the deadline. 
 ## 📊 Assesment
 
 The course assesment is done with 0-5 grading scale. The final grade is calculated from the exercises' average so that each week's exercises have the same weight. Grades from individual exercises aren't rounded, but the possible rounding is done only once the final grade is calculated.
-
 
 ## ⏱️ Workload
 

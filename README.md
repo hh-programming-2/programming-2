@@ -39,9 +39,9 @@ Gradle:
 
 - [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
 
-#### Exercises (DL 29.10. klo 22)
+#### Exercises (DL 29.10. at 22)
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+You can find the links to exercises in the exercises section in Teams.
 
 - Git "Hello world"
 - Warming up (the warm-up exercises for the course)
@@ -61,9 +61,9 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 - [Managing the Content of a Map (dev.java)](https://dev.java/learn/api/collections-framework/working-with-keys-and-values/)
 - [Ohjelmointi 2 kurssin map-materiaali](https://ohjelmointi2.github.io/map/)
 
-#### Exercises (DL 5.11. klo 22)
+#### Exercises (DL 5.11. at 22)
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+You can find the links to exercises in the exercises section in Teams.
 
 - Map exercises
 
@@ -80,9 +80,9 @@ This week, we will get familiar with JUnit unit testing and write our own unit t
 - [Johdatus ohjelmien testaamiseen (mooc.fi)](https://ohjelmointi-20.mooc.fi/osa-6/3-johdatus-ohjelmien-testaamiseen)
 - [Ohjelmointi 2 kurssin JUnit materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/testaus/)
 
-#### Exercises (DL 12.11. klo 22)
+#### Exercises (DL 12.11. at 22)
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+You can find the links to exercises in the exercises section in Teams.
 
 - JUnit exercise
 
@@ -100,9 +100,9 @@ This week, we will deepen our object-oriented programming skills by exploring in
 - [Perintä ja rajapinnat (mooc.fi)](https://ohjelmointi-20.mooc.fi/osa-9)
 - [Ohjelmointi 2 kurssin perintä ja rajapinnat materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/perint%C3%A4-ja-rajapinnat/)
 
-#### Exercises (DL 19.11. klo 22)
+#### Exercises (DL 19.11. at 22)
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+You can find the links to exercises in the exercises section in Teams.
 
 - Interfaces and inheritance
 
@@ -125,9 +125,9 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 - [The Java 8 Stream API Tutorial (baeldung.com)](https://www.baeldung.com/java-8-streams)
 - [Ohjelmointi 2 kurssin stream-lambda-materiaali](https://ohjelmointi2.github.io/stream-lambda)
 
-#### Exercises (DL 26.11. klo 22)
+#### Exercises (DL 26.11. at 22)
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+You can find the links to exercises in the exercises section in Teams.
 
 - Streams and Lambdas
 
@@ -143,9 +143,9 @@ This week, we will start by learning how to establish a connection to a database
 - [Introduction to JDBC (baeldung.com)](https://www.baeldung.com/java-jdbc)
 - [Ohjelmointi 2 kurssin JDBC-materiaali, osin hieman vanhentunutta](https://ohjelmointi2.github.io/tietokannat/)
 
-#### Exercises (DL 3.12. klo 22)
+#### Exercises (DL 3.12. at 22)
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+You can find the links to exercises in the exercises section in Teams.
 
 - SQL databases (Chinook, JDBC & DAO)
 
@@ -153,42 +153,42 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
 ### Week 7: Data structures and algorithms
 
-> *"Algoritmi (algorithm) on toimintaohje, jota seuraamalla voimme ratkaista jonkin laskennallisen ongelman. Algoritmille annetaan syöte (input), joka kuvaa ratkaistavan ongelman tapauksen, ja algoritmin tulee tuottaa tuloste (output), joka on vastaus sille annettuun syötteeseen"*
+> *"A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer."*
 >
-> Antti Laaksonen, [Tietorakenteet ja algoritmit -kirja](https://github.com/pllk/tirakirja/raw/master/tirakirja.pdf)
+> Oxford Languages
 
-**Suositellut materiaalit**
+#### Recommended materials
 
-*Tuntiharjoitus*
+Lesson exercise:
 
-* [Wordplay-tuntiharjoitus](https://github.com/ohjelmointi2/wordplay-exercise)
+* [Wordplay-exercise](https://github.com/ohjelmointi2/wordplay-exercise)
 
-> *"Tämän harjoituksen tarkoituksena on perehtyä erilaisiin tietorakenteisiin ja algoritmeihin erityisesti niiden suorituskyvyn näkökulmasta. Samassa sivuamme ohjelmien suorituskykytestausta ja "asymptoottisen suoritusajan" käsitettä.*
+Th
+
+> *"The purpose of this exercise is to explore various data structures and algorithms, especially from the perspective of their performance. We will also touch on performance testing of programs and the concept of "asymptotic runtime.*
 >
-> *Harjoituksen ensimmäisessä osassa perehdytään Javan listojen suorituskykyyn. Jälkimmäisessä osassa kehitettävä sovellus hyödyntää avointa nimi- ja sanakirja-aineistoa ja etsii sellaisia suomenkielisiä etunimiä, joilla on nimen lisäksi myös jokin toinen merkitys sanakirjassa. Tällaisia nimiä ovat esimerkiksi Tuuli ja Onni."*
+> *The first part of the exercise focuses on the performance of Java lists. In the second part, the application to be developed will use an open dataset of names and dictionary entries to find Finnish first names that also have another meaning in the dictionary. Examples of such names include Tuuli ("wind") and Onni ("luck" or "happiness")"*
 
-*Videot*
+Videos:
 
-* [Sorting Algorithms Explained Visually (Beyond Fireship)](https://youtu.be/RfXt_qHDEPw)
-* [Quicksort Sort Algorithm in Java (Coding with John, YouTube)](https://www.youtube.com/watch?v=h8eyY7dIiN4)
-* [Merge Sort Algorithm in Java (Coding with John, YouTube)](https://www.youtube.com/watch?v=bOk35XmHPKs)
-* [Insertion Sort Algorithm in Java (Coding with John, YouTube)](https://www.youtube.com/watch?v=0lOnnd50cGI)
-* [Bubble Sort Algorithm Tutorial in Java (Coding with John, YouTube)](https://www.youtube.com/watch?v=g8qeaEd2jTc)
+- [Sorting Algorithms Explained Visually (Beyond Fireship)](https://youtu.be/RfXt_qHDEPw)
+- [Quicksort Sort Algorithm in Java (Coding with John, YouTube)](https://www.youtube.com/watch?v=h8eyY7dIiN4)
+- [Merge Sort Algorithm in Java (Coding with John, YouTube)](https://www.youtube.com/watch?v=bOk35XmHPKs)
+- [Insertion Sort Algorithm in Java (Coding with John, YouTube)](https://www.youtube.com/watch?v=0lOnnd50cGI)
+- [Bubble Sort Algorithm Tutorial in Java (Coding with John, YouTube)](https://www.youtube.com/watch?v=g8qeaEd2jTc)
 
-*Artikkelit*
+Articles:
 
-* [Tietorakenteet ja algoritmit -kirja](https://github.com/pllk/tirakirja/raw/master/tirakirja.pdf)
-* [Algorithms Every Programmer Should Know (dev.to)](https://dev.to/surajondev/algorithms-every-programmer-should-know-part-1-searching-algorithm-1hd3)
-* [10 Algorithms Every Developer Should Learn (dev.to)](https://dev.to/codesphere/10-algorithms-every-developer-should-learn-3lnm)
-* [6 Data Structures Every Programmer Should Learn (medium.com)](https://medium.com/javarevisited/6-data-structures-every-programmer-should-learn-a24de0f3fc3b)
-* [Ohjelmointi 2 kurssin tietorakenteet ja algoritmit materiaali](https://ohjelmointi2.github.io/algoritmit/)
+- [Algorithms Every Programmer Should Know (dev.to)](https://dev.to/surajondev/algorithms-every-programmer-should-know-part-1-searching-algorithm-1hd3)
+- [10 Algorithms Every Developer Should Learn (dev.to)](https://dev.to/codesphere/10-algorithms-every-developer-should-learn-3lnm)
+- [6 Data Structures Every Programmer Should Learn (medium.com)](https://medium.com/javarevisited/6-data-structures-every-programmer-should-learn-a24de0f3fc3b)
+- [Ohjelmointi 2 kurssin tietorakenteet ja algoritmit materiaali](https://ohjelmointi2.github.io/algoritmit/)
 
-**Tehtävät (DL 10.12. klo 22)**
+#### Exercises (DL 10.12. at 22)
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+You can find the links to exercises in the exercises section in Teams.
 
-* Sorting & Filtering
-
+- Sorting & Filtering
 
 -----
 

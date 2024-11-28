@@ -41,10 +41,8 @@ Gradle:
 
 #### Exercises (DL 29.10. at 22)
 
-You can find the links to exercises in the "Exercises" section in Moodle.
-
-- Git "Hello world"
-- Warming up (the warm-up exercises for the course)
+- [Git "Hello world"](https://github.com/ohjelmointi2/git-hello-world/blob/master/readme.en.md)
+- [Warming up](https://github.com/ohjelmointi2/warming-up/blob/master/readme.en.md) (the warm-up exercises for the course)
 
 ----
 
@@ -63,9 +61,7 @@ You can find the links to exercises in the "Exercises" section in Moodle.
 
 #### Exercises (DL 5.11. at 22)
 
-You can find the links to exercises in the "Exercises" section in Moodle.
-
-- Map exercises
+- [Map exercises](https://github.com/ohjelmointi2/map-exercises/blob/master/readme.en.md)
 
 ----
 
@@ -82,9 +78,7 @@ This week, we will get familiar with JUnit unit testing and write our own unit t
 
 #### Exercises (DL 12.11. at 22)
 
-You can find the links to exercises in the "Exercises" section in Moodle.
-
-- JUnit exercise
+- [JUnit exercise](https://github.com/ohjelmointi2/junit-exercise/blob/master/readme.en.md)
 
 ----
 
@@ -102,9 +96,7 @@ This week, we will deepen our object-oriented programming skills by exploring in
 
 #### Exercises (DL 19.11. at 22)
 
-You can find the links to exercises in the "Exercises" section in Moodle.
-
-- Interfaces and inheritance
+- [Interfaces and inheritance](https://github.com/ohjelmointi2/inheritance-interfaces/blob/master/readme.en.md)
 
 -----
 
@@ -127,9 +119,7 @@ You can find the links to exercises in the "Exercises" section in Moodle.
 
 #### Exercises (DL 26.11. at 22)
 
-You can find the links to exercises in the "Exercises" section in Moodle.
-
-- Streams and Lambdas
+- [Streams and Lambdas](https://github.com/ohjelmointi2/streams-and-lambdas/blob/master/readme.en.md)
 
 -----
 
@@ -147,7 +137,7 @@ This week, we will start by learning how to establish a connection to a database
 
 You can find the links to exercises in the "Exercises" section in Moodle.
 
-- SQL databases (Chinook, JDBC & DAO)
+- [SQL databases](https://github.com/ohjelmointi2/sql-databases/blob/master/readme.en.md) (Chinook, JDBC & DAO)
 
 -----
 
@@ -188,7 +178,7 @@ Articles:
 
 You can find the links to exercises in the "Exercises" section in Moodle.
 
-- Sorting & Filtering
+- [Sorting & Filtering](https://github.com/ohjelmointi2/sorting-and-filtering/blob/master/readme.en.md)
 
 -----
 
@@ -208,7 +198,7 @@ At the end of the course, we will deepen and apply previous topics, exploring co
 
 You can find the links to exercises in the "Exercises" section in Moodle.
 
-- Commit history
+- [Commit history](https://github.com/ohjelmointi2/commit-history/blob/master/readme.en.md)
 
 -----
 

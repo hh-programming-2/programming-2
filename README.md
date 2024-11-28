@@ -151,7 +151,7 @@ You can find the links to exercises in the "Exercises" section in Moodle.
 
 Lesson exercise:
 
-* [Wordplay-exercise](https://github.com/ohjelmointi2/wordplay-exercise)
+* [Wordplay-exercise](https://github.com/ohjelmointi2/wordplay-exercise/blob/master/readme.en.md)
 
 Th
 

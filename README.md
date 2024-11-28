@@ -178,7 +178,7 @@ Articles:
 
 You can find the links to exercises in the "Exercises" section in Moodle.
 
-- [Sorting & Filtering](https://github.com/ohjelmointi2/sorting-and-filtering/blob/master/readme.en.md)
+- [Sorting and filtering](https://github.com/ohjelmointi2/sorting-and-filtering/blob/master/readme.en.md)
 
 -----
 

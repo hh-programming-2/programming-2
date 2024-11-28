@@ -41,7 +41,7 @@ Gradle:
 
 #### Exercises (DL 29.10. at 22)
 
-You can find the links to exercises in the exercises section in Teams.
+You can find the links to exercises in the "Exercises" section in Moodle.
 
 - Git "Hello world"
 - Warming up (the warm-up exercises for the course)
@@ -63,7 +63,7 @@ You can find the links to exercises in the exercises section in Teams.
 
 #### Exercises (DL 5.11. at 22)
 
-You can find the links to exercises in the exercises section in Teams.
+You can find the links to exercises in the "Exercises" section in Moodle.
 
 - Map exercises
 
@@ -82,7 +82,7 @@ This week, we will get familiar with JUnit unit testing and write our own unit t
 
 #### Exercises (DL 12.11. at 22)
 
-You can find the links to exercises in the exercises section in Teams.
+You can find the links to exercises in the "Exercises" section in Moodle.
 
 - JUnit exercise
 
@@ -102,7 +102,7 @@ This week, we will deepen our object-oriented programming skills by exploring in
 
 #### Exercises (DL 19.11. at 22)
 
-You can find the links to exercises in the exercises section in Teams.
+You can find the links to exercises in the "Exercises" section in Moodle.
 
 - Interfaces and inheritance
 
@@ -127,7 +127,7 @@ You can find the links to exercises in the exercises section in Teams.
 
 #### Exercises (DL 26.11. at 22)
 
-You can find the links to exercises in the exercises section in Teams.
+You can find the links to exercises in the "Exercises" section in Moodle.
 
 - Streams and Lambdas
 
@@ -145,7 +145,7 @@ This week, we will start by learning how to establish a connection to a database
 
 #### Exercises (DL 3.12. at 22)
 
-You can find the links to exercises in the exercises section in Teams.
+You can find the links to exercises in the "Exercises" section in Moodle.
 
 - SQL databases (Chinook, JDBC & DAO)
 
@@ -186,7 +186,7 @@ Articles:
 
 #### Exercises (DL 10.12. at 22)
 
-You can find the links to exercises in the exercises section in Teams.
+You can find the links to exercises in the "Exercises" section in Moodle.
 
 - Sorting & Filtering
 
@@ -206,7 +206,7 @@ At the end of the course, we will deepen and apply previous topics, exploring co
 
 **Exercises (DL 15.12. at 22)**
 
-You can find the links to exercises in the exercises section in Teams.
+You can find the links to exercises in the "Exercises" section in Moodle.
 
 - Commit history
 

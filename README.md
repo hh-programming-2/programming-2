@@ -8,8 +8,18 @@ Welcome to the Programming 2 course! 👋 In this course, we will deepen our pro
 
 The course requirements include weekly exercises covering different areas of the course. GitHub Classroom and a Teams group will be used for the technical implementation of the assignments. Assignments must be submitted according to the schedule, and late submissions will generally not be accepted. In cases of force majeure, extensions must be requested well in advance of the assignment deadline.
 
-[Here are the code examples covered during the lessons](https://github.com/hh-programming-2/lessons)
+| Week | Topic                                   | Deadline     |
+| ---- | --------------------------------------- | ------------ |
+| 1    | Version control and tools of the course | 29.10. at 22 |
+| 2    | The Map data structuce                  | 5.11. at 22  |
+| 3    | Unit testing                            | 12.11. at 22 |
+| 4    | Inheritance and interfaces              | 19.11. at 22 |
+| 5    | Streams and lambdas                     | 26.11. at 22 |
+| 6    | JDBC & DAO                              | 3.12. at 22  |
+| 7    | Data structures and algorithms          | 10.12. at 22 |
+| 8    | Advanced and applied topics             | 15.12. at 22 |
 
+[Here are the code examples covered during the lessons](https://github.com/hh-programming-2/lessons)
 
 ### Week 1: Version control and tools of the course
 
@@ -23,7 +33,7 @@ The course's Java content revisits topics covered in Programming 1, aiming to en
 
 Command-line/terminal:
 
-> *"In your development process, you'll undoubtedly be required to run some commands in the terminal (or on the "command line" — these are effectively the same thing). This article provides an introduction to the terminal, the essential commands you'll need to enter into it, how to chain commands together, and how to add your own command line interface (CLI) tools."*
+> _"In your development process, you'll undoubtedly be required to run some commands in the terminal (or on the "command line" — these are effectively the same thing). This article provides an introduction to the terminal, the essential commands you'll need to enter into it, how to chain commands together, and how to add your own command line interface (CLI) tools."_
 >
 > [Command line crash course. mdn web docs.](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
 
@@ -47,13 +57,13 @@ Gradle:
 - Git "Hello world
 - Warming up
 
-----
+---
 
 ### Week 2: The Map data structuce
 
-> *"Maps are data structures stores a collection of key-value pairs. Each key is unique and allows for quick access to values. A real life example of a map could be storing the grades for students in a class (student name is key, grade is value)."*
+> _"Maps are data structures stores a collection of key-value pairs. Each key is unique and allows for quick access to values. A real life example of a map could be storing the grades for students in a class (student name is key, grade is value)."_
 >
-> [*Data Structures & Algorithms, Google*](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+> [_Data Structures & Algorithms, Google_](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 
 #### Recommended materials
 
@@ -68,7 +78,7 @@ Gradle:
 
 - Map exercises
 
-----
+---
 
 ### Week 3: Unit testing
 
@@ -87,7 +97,7 @@ This week, we will get familiar with JUnit unit testing and write our own unit t
 
 - JUnit exercises
 
-----
+---
 
 ### Week 4: Inheritance and interfaces
 
@@ -100,7 +110,6 @@ This week, we will deepen our object-oriented programming skills by exploring in
 - [Super Keyword in Java Full Tutorial - How to Use "super" (Coding with John, YouTube)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)
 - [Inheritance and interfaces (mooc.fi)](https://java-programming.mooc.fi/part-9)
 
-
 #### Exercises (DL 19.11. at 22)
 
 > [!IMPORTANT]  
@@ -108,13 +117,13 @@ This week, we will deepen our object-oriented programming skills by exploring in
 
 - Interfaces and inheritance
 
------
+---
 
 ### Week 5: Streams and lambdas
 
-> *"The **Stream API** is probably the second most important feature added to Java SE 8, after the **lambda expressions**. In a nutshell, the Stream API is about providing an implementation of the well known map-filter-reduce algorithm to the JDK.*
+> _"The **Stream API** is probably the second most important feature added to Java SE 8, after the **lambda expressions**. In a nutshell, the Stream API is about providing an implementation of the well known map-filter-reduce algorithm to the JDK._
 >
-> *The Collections Framework is about storing and organizing your data in the memory of your JVM. You can see the Stream API as a companion framework to the Collections Framework, to process this data in a very efficient way. Indeed, you can open a stream on a collection to process the data it contains."*
+> _The Collections Framework is about storing and organizing your data in the memory of your JVM. You can see the Stream API as a companion framework to the Collections Framework, to process this data in a very efficient way. Indeed, you can open a stream on a collection to process the data it contains."_
 >
 > Processing Data in Memory Using the Stream API. https://dev.java/learn/api/streams/map-filter-reduce/
 
@@ -133,7 +142,7 @@ This week, we will deepen our object-oriented programming skills by exploring in
 
 - Streams and Lambdas
 
------
+---
 
 ### Week 6: JDBC & DAO
 
@@ -151,11 +160,11 @@ This week, we will start by learning how to establish a connection to a database
 
 - SQL databases (Chinook, JDBC & DAO)
 
------
+---
 
 ### Week 7: Data structures and algorithms
 
-> *"A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer."*
+> _"A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer."_
 >
 > Oxford Languages
 
@@ -165,11 +174,9 @@ Lesson exercise:
 
 - Wordplay-exercise
 
-Th
-
-> *"The purpose of this exercise is to explore various data structures and algorithms, especially from the perspective of their performance. We will also touch on performance testing of programs and the concept of "asymptotic runtime.*
+> _"The purpose of this exercise is to explore various data structures and algorithms, especially from the perspective of their performance. We will also touch on performance testing of programs and the concept of "asymptotic runtime._
 >
-> *The first part of the exercise focuses on the performance of Java lists. In the second part, the application to be developed will use an open dataset of names and dictionary entries to find Finnish first names that also have another meaning in the dictionary. Examples of such names include Tuuli ("wind") and Onni ("luck" or "happiness")"*
+> _The first part of the exercise focuses on the performance of Java lists. In the second part, the application to be developed will use an open dataset of names and dictionary entries to find Finnish first names that also have another meaning in the dictionary. Examples of such names include Tuuli ("wind") and Onni ("luck" or "happiness")"_
 
 Videos:
 
@@ -192,17 +199,17 @@ Articles:
 
 - Sorting and filtering
 
------
+---
 
-### Week 8: Advanced and applied Topics
+### Week 8: Advanced and applied topics
 
 At the end of the course, we will deepen and apply previous topics, exploring concepts such as concurrency and recursion.
 
 #### Recommended materials
 
-- [Virtual Threads (dev.java)](https://dev.java/learn/new-features/virtual-threads/) 
-- [Lesson: Concurrency (docs.oracle.com)](https://docs.oracle.com/javase/tutorial/essential/concurrency/) 
-- [Java Concurrency (baeldung.com)](https://www.baeldung.com/java-concurrency) 
+- [Virtual Threads (dev.java)](https://dev.java/learn/new-features/virtual-threads/)
+- [Lesson: Concurrency (docs.oracle.com)](https://docs.oracle.com/javase/tutorial/essential/concurrency/)
+- [Java Concurrency (baeldung.com)](https://www.baeldung.com/java-concurrency)
 - [Java Threads (w3schools.com)](https://www.w3schools.com/java/java_threads.asp)
 - [Ohjelmointi 2: rinnakkaisuus (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/rinnakkaisuus/)
 
@@ -213,7 +220,7 @@ At the end of the course, we will deepen and apply previous topics, exploring co
 
 - Commit history
 
------
+---
 
 ## ✅ Confirming the course participation
 
@@ -247,7 +254,6 @@ double workHoursForOneWeek = 1.0 * totalWorkHours / durationInWeeks;
 System.out.println(workHoursForOneWeek); // 16.875 hours a week
 ```
 
-
 ## 🔍 Finding information
 
 This course material is mostly based on external online resources, such as documentation and tutorials. Each topic contains links to relevant materials but **you will also need to find relevant resources yourself**.
@@ -262,9 +268,8 @@ Using online sources and drawing inspiration from them is allowed and encouraged
 
 ## 🧠 Prerequisites
 
-> *"The course prerequisite is that you have passed the course Programming 1 (SOF005AS2AE), or can demonstrate equivalent skills and knowledge prior commencing the course. We recommend that you take the course Data Management and Databases (SOF001AS2AE) alongside the Programming 2 course if you don't already have equivalent skills in basics of databases and SQL."*
+> _"The course prerequisite is that you have passed the course Programming 1 (SOF005AS2AE), or can demonstrate equivalent skills and knowledge prior commencing the course. We recommend that you take the course Data Management and Databases (SOF001AS2AE) alongside the Programming 2 course if you don't already have equivalent skills in basics of databases and SQL."_
 >
-> [*Course description*]([https://opinto-opas.haaga-helia.fi/course_unit/SOF001AS3A](https://opinto-opas.haaga-helia.fi/course_unit/SOF001AS3AE))
+> [_Course description_](<[https://opinto-opas.haaga-helia.fi/course_unit/SOF001AS3A](https://opinto-opas.haaga-helia.fi/course_unit/SOF001AS3AE)>)
 
 If you haven't acquired solid skills from the Programming 1 course, this course will require a significant amount of work and personal effort.
-

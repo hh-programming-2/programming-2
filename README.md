@@ -25,6 +25,9 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 
 ### Week 1: Version control and tools of the course
 
+> [!IMPORTANT]
+> To confirm your course participation, it is necessary to submit the firt week's exercises before the deadline.
+
 In the first week of the course, we will get acquainted with the tools we will be using throughout the remainder of the course. Our goal is to enable the application to run smoothly outside of the code editor and to automate, if needed, the building, dependency installation, packaging, and testing of the application.
 
 Git version control will be used in this course for distributing assignments, submitting them, and for automatic evaluation. In future courses and in working life, you will likely use version control as an essential part of daily work.

@@ -60,7 +60,6 @@ Gradle:
 - [Map and HashMap in Java (Coding with John, YouTube)](https://youtu.be/H62Jfv1DJlU)
 - [Using Maps to Store Key Value Pairs (dev.java)](https://dev.java/learn/api/collections-framework/maps/)
 - [Managing the Content of a Map (dev.java)](https://dev.java/learn/api/collections-framework/working-with-keys-and-values/)
-- [Ohjelmointi 2 kurssin map-materiaali](https://ohjelmointi2.github.io/map/)
 
 #### Exercises (DL 5.11. at 22)
 
@@ -79,8 +78,7 @@ This week, we will get familiar with JUnit unit testing and write our own unit t
 
 - [JUnit 5 User Guide (junit.org)](https://junit.org/junit5/docs/current/user-guide/)
 - [Java Unit Testing with JUnit (Coding with John, YouTube)](https://youtu.be/vZm0lHciFsQ)
-- [Johdatus ohjelmien testaamiseen (mooc.fi)](https://ohjelmointi-20.mooc.fi/osa-6/3-johdatus-ohjelmien-testaamiseen)
-- [Ohjelmointi 2 kurssin JUnit materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/testaus/)
+- [Introduction to testing (mooc.fi)](https://java-programming.mooc.fi/part-6/3-introduction-to-testing)
 
 #### Exercises (DL 12.11. at 22)
 
@@ -100,8 +98,8 @@ This week, we will deepen our object-oriented programming skills by exploring in
 - [Objects, Classes, Interfaces, Packages, and Inheritance (dev.java)](https://dev.java/learn/oop/)
 - [Java Polymorphism Fully Explained In 7 Minutes (Coding with John, YouTube)](https://youtu.be/jhDUxynEQRI)
 - [Super Keyword in Java Full Tutorial - How to Use "super" (Coding with John, YouTube)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)
-- [Perintä ja rajapinnat (mooc.fi)](https://ohjelmointi-20.mooc.fi/osa-9)
-- [Ohjelmointi 2 kurssin perintä ja rajapinnat materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/perint%C3%A4-ja-rajapinnat/)
+- [Inheritance and interfaces (mooc.fi)](https://java-programming.mooc.fi/part-9)
+
 
 #### Exercises (DL 19.11. at 22)
 
@@ -127,7 +125,6 @@ This week, we will deepen our object-oriented programming skills by exploring in
 - [Optionals In Java (Coding with John, YouTube)](https://youtu.be/vKVzRbsMnTQ)
 - [Java 8 STREAMS Tutorial (Oggi AI, YouTube)](https://youtu.be/t1-YZ6bF-g0)
 - [The Java 8 Stream API Tutorial (baeldung.com)](https://www.baeldung.com/java-8-streams)
-- [Ohjelmointi 2 kurssin stream-lambda-materiaali](https://ohjelmointi2.github.io/stream-lambda)
 
 #### Exercises (DL 26.11. at 22)
 
@@ -146,7 +143,6 @@ This week, we will start by learning how to establish a connection to a database
 
 - [Java Database Connectivity (Telusko, YouTube)](https://youtu.be/7v2OnUti2eM)
 - [Introduction to JDBC (baeldung.com)](https://www.baeldung.com/java-jdbc)
-- [Ohjelmointi 2 kurssin JDBC-materiaali, osin hieman vanhentunutta](https://ohjelmointi2.github.io/tietokannat/)
 
 #### Exercises (DL 3.12. at 22)
 
@@ -188,7 +184,6 @@ Articles:
 - [Algorithms Every Programmer Should Know (dev.to)](https://dev.to/surajondev/algorithms-every-programmer-should-know-part-1-searching-algorithm-1hd3)
 - [10 Algorithms Every Developer Should Learn (dev.to)](https://dev.to/codesphere/10-algorithms-every-developer-should-learn-3lnm)
 - [6 Data Structures Every Programmer Should Learn (medium.com)](https://medium.com/javarevisited/6-data-structures-every-programmer-should-learn-a24de0f3fc3b)
-- [Ohjelmointi 2 kurssin tietorakenteet ja algoritmit materiaali](https://ohjelmointi2.github.io/algoritmit/)
 
 #### Exercises (DL 10.12. at 22)
 

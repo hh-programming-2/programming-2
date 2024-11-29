@@ -6,7 +6,9 @@ Welcome to the Programming 2 course! 👋 In this course, we will deepen our pro
 
 ## 📅 Weekly schedule
 
-The course requirements include weekly exercises covering different areas of the course. GitHub Classroom and a Teams group will be used for the technical implementation of the assignments. Assignments must be submitted according to the schedule, and late submissions will generally not be accepted. In cases of force majeure, extensions must be requested well in advance of the assignment deadline.
+The course requirements include weekly exercises covering different areas of the course. [GitHub Classroom](https://classroom.github.com/) will be used for the technical implementation of the exercises. Exercises must be submitted according to the schedule, and late submissions will generally not be accepted. In cases of force majeure, _extensions must be requested well in advance of the exercise deadline_.
+
+The weekly topics and exercise deadlines can be found below. The exercise descriptions can be found in Moodle in the "Exercises" tab.
 
 | Week | Topic                                   | Deadline     |
 | ---- | --------------------------------------- | ------------ |

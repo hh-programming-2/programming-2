@@ -21,7 +21,7 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 | 7    | Data structures and algorithms          | 10.12. at 22 |
 | 8    | Advanced and applied topics             | 15.12. at 22 |
 
-[Here are the code examples covered during the lessons](https://github.com/hh-programming-2/lessons)
+👉 [Here are the code examples covered during the lessons](https://github.com/hh-programming-2/lessons)
 
 ### Week 1: Version control and tools of the course
 

@@ -12,14 +12,14 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 
 | Week | Topic                                   | Deadline     |
 | ---- | --------------------------------------- | ------------ |
-| 1    | Version control and tools of the course | 29.10. at 22 |
-| 2    | The Map data structuce                  | 5.11. at 22  |
-| 3    | Unit testing                            | 12.11. at 22 |
-| 4    | Inheritance and interfaces              | 19.11. at 22 |
-| 5    | Streams and lambdas                     | 26.11. at 22 |
-| 6    | JDBC & DAO                              | 3.12. at 22  |
-| 7    | Data structures and algorithms          | 10.12. at 22 |
-| 8    | Advanced and applied topics             | 15.12. at 22 |
+| 1    | Version control and tools of the course | 1.4. at 23:59 |
+| 2    | The Map data structuce                  | 8.4. at 23:59  |
+| 3    | Unit testing                            | 15.4. at 23:59 |
+| 4    | Inheritance and interfaces              | 22.4. at 23:59 |
+| 5    | Streams and lambdas                     | 29.4. at 23:59 |
+| 6    | JDBC & DAO                              | 6.5. at 23:59  |
+| 7    | Data structures and algorithms          | 13.5. at 23:59 |
+| 8    | Advanced and applied topics             | 18.5. at 23:59 |
 
 👉 [Here are the code examples covered during the lessons](https://github.com/hh-programming-2/lessons)
 

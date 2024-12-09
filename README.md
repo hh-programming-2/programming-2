@@ -21,7 +21,7 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 | 7    | Data structures and algorithms          | 10.12. at 22 |
 | 8    | Advanced and applied topics             | 15.12. at 22 |
 
-[Here are the code examples covered during the lessons](https://github.com/hh-programming-2/lessons)
+👉 [Here are the code examples covered during the lessons](https://github.com/hh-programming-2/lessons)
 
 ### Week 1: Version control and tools of the course
 
@@ -224,7 +224,7 @@ At the end of the course, we will deepen and apply previous topics, exploring co
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
 
 - Commit history
-- ⭐ Bonus exercise: Generics and sudoku
+- ⭐ Bonus exercise: Generics and Sudoku
 
 ---
 

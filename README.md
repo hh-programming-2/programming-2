@@ -224,6 +224,7 @@ At the end of the course, we will deepen and apply previous topics, exploring co
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
 
 - Commit history
+- ⭐ Bonus: Generics and Suoku
 
 ---
 

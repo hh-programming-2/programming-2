@@ -145,7 +145,7 @@ This week, we will deepen our object-oriented programming skills by exploring in
 > [!IMPORTANT]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
 
-- Streams and Lambdas
+- Streams and lambdas
 
 ---
 

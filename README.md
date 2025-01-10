@@ -59,7 +59,7 @@ Gradle:
 > [!IMPORTANT]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
 
-- Git "Hello world
+- Git "Hello world"
 - Warming up
 
 ---

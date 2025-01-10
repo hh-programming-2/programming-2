@@ -12,14 +12,14 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 
 | Week | Topic                                   | Deadline     |
 | ---- | --------------------------------------- | ------------ |
-| 1    | Version control and tools of the course | 29.10. at 22 |
-| 2    | The Map data structuce                  | 5.11. at 22  |
-| 3    | Unit testing                            | 12.11. at 22 |
-| 4    | Inheritance and interfaces              | 19.11. at 22 |
-| 5    | Streams and lambdas                     | 26.11. at 22 |
-| 6    | JDBC & DAO                              | 3.12. at 22  |
-| 7    | Data structures and algorithms          | 10.12. at 22 |
-| 8    | Advanced and applied topics             | 15.12. at 22 |
+| 1    | Version control and tools of the course | 1.4. at 23:59 |
+| 2    | The Map data structuce                  | 8.4. at 23:59  |
+| 3    | Unit testing                            | 15.4. at 23:59 |
+| 4    | Inheritance and interfaces              | 22.4. at 23:59 |
+| 5    | Streams and lambdas                     | 29.4. at 23:59 |
+| 6    | JDBC & DAO                              | 6.5. at 23:59  |
+| 7    | Data structures and algorithms          | 13.5. at 23:59 |
+| 8    | Advanced and applied topics             | 18.5. at 23:59 |
 
 👉 [Here are the code examples covered during the lessons](https://github.com/hh-programming-2/lessons)
 
@@ -59,7 +59,7 @@ Gradle:
 > [!IMPORTANT]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
 
-- Git "Hello world
+- Git "Hello world"
 - Warming up
 
 ---
@@ -76,7 +76,7 @@ Gradle:
 - [Using Maps to Store Key Value Pairs (dev.java)](https://dev.java/learn/api/collections-framework/maps/)
 - [Managing the Content of a Map (dev.java)](https://dev.java/learn/api/collections-framework/working-with-keys-and-values/)
 
-#### Exercises (DL 5.11. at 22)
+#### Exercises
 
 > [!IMPORTANT]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
@@ -95,7 +95,7 @@ This week, we will get familiar with JUnit unit testing and write our own unit t
 - [Java Unit Testing with JUnit (Coding with John, YouTube)](https://youtu.be/vZm0lHciFsQ)
 - [Introduction to testing (mooc.fi)](https://java-programming.mooc.fi/part-6/3-introduction-to-testing)
 
-#### Exercises (DL 12.11. at 22)
+#### Exercises
 
 > [!IMPORTANT]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
@@ -115,7 +115,7 @@ This week, we will deepen our object-oriented programming skills by exploring in
 - [Super Keyword in Java Full Tutorial - How to Use "super" (Coding with John, YouTube)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)
 - [Inheritance and interfaces (mooc.fi)](https://java-programming.mooc.fi/part-9)
 
-#### Exercises (DL 19.11. at 22)
+#### Exercises
 
 > [!IMPORTANT]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
@@ -140,12 +140,12 @@ This week, we will deepen our object-oriented programming skills by exploring in
 - [Java 8 STREAMS Tutorial (Oggi AI, YouTube)](https://youtu.be/t1-YZ6bF-g0)
 - [The Java 8 Stream API Tutorial (baeldung.com)](https://www.baeldung.com/java-8-streams)
 
-#### Exercises (DL 26.11. at 22)
+#### Exercises
 
 > [!IMPORTANT]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
 
-- Streams and Lambdas
+- Streams and lambdas
 
 ---
 
@@ -158,7 +158,7 @@ This week, we will start by learning how to establish a connection to a database
 - [Java Database Connectivity (Telusko, YouTube)](https://youtu.be/7v2OnUti2eM)
 - [Introduction to JDBC (baeldung.com)](https://www.baeldung.com/java-jdbc)
 
-#### Exercises (DL 3.12. at 22)
+#### Exercises
 
 > [!IMPORTANT]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
@@ -197,7 +197,7 @@ Articles:
 - [10 Algorithms Every Developer Should Learn (dev.to)](https://dev.to/codesphere/10-algorithms-every-developer-should-learn-3lnm)
 - [6 Data Structures Every Programmer Should Learn (medium.com)](https://medium.com/javarevisited/6-data-structures-every-programmer-should-learn-a24de0f3fc3b)
 
-#### Exercises (DL 10.12. at 22)
+#### Exercises
 
 > [!IMPORTANT]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
@@ -218,7 +218,7 @@ At the end of the course, we will deepen and apply previous topics, exploring co
 - [Java Threads (w3schools.com)](https://www.w3schools.com/java/java_threads.asp)
 - [Ohjelmointi 2: rinnakkaisuus (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/rinnakkaisuus/)
 
-**Exercises (DL 15.12. at 22)**
+#### Exercises
 
 > [!IMPORTANT]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.

@@ -26,9 +26,9 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 ### Week 1: Version control and tools of the course
 
 > [!IMPORTANT]
-> To confirm your course participation, it is necessary to submit the firt week's exercises before the deadline.
+> To confirm your course participation, it is necessary to submit the first week's exercises before the deadline.
 
-In the first week of the course, we will get acquainted with the tools we will be using throughout the remainder of the course. Our goal is to enable the application to run smoothly outside of the code editor and to automate, if needed, the building, dependency installation, packaging, and testing of the application.
+In the first week of the course, we will get acquainted with the tools we will be using throughout the remainder of the course. Our goal is to enable the application to run smoothly outside of the code editor and to automate if needed, the building, dependency installation, packaging, and testing of the application.
 
 Git version control will be used in this course for distributing assignments, submitting them, and for automatic evaluation. In future courses and in working life, you will likely use version control as an essential part of daily work.
 
@@ -57,7 +57,7 @@ Gradle:
 #### Exercises (DL 29.10. at 22)
 
 > [!IMPORTANT]  
-> You can find the exercise descriptions in the "Exercises" tab in Moodle.
+> You can find the exercise descriptions in the "Exercises" tab in Moodle. Submitting the "GitHub account username" submission in Moodle is necessary to receive exercise points.
 
 - Git "Hello world"
 - Warming up

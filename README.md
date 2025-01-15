@@ -15,7 +15,7 @@ There are two types of weekly sessions:
 
 The course's attendance policies follow Haaga-Helia's common policies. Attendance should be marked on Moodle during each session.
 
-The weekly topics and exercise deadlines can be found below. The exercise descriptions can be found in Moodle in the "Exercises" tab.
+The weekly topics and exercise deadlines can be found below. The exercise descriptions can be found in Moodle's "Exercises" tab.
 
 | Week | Topic                                   | Deadline     |
 | ---- | --------------------------------------- | ------------ |

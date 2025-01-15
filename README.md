@@ -8,6 +8,13 @@ Welcome to the Programming 2 course! 👋 In this course, we will deepen our pro
 
 The course requirements include weekly exercises covering different areas of the course. [GitHub Classroom](https://classroom.github.com/) will be used for the technical implementation of the exercises. Exercises must be submitted according to the schedule, and late submissions will generally not be accepted. In cases of force majeure, _extensions must be requested well in advance of the exercise deadline_.
 
+There are two types of weekly sessions:
+
+- Theory sessions on Tuesdays at 11:00 - 13:45. During these sessions we will cover the week's topic.
+- Lab sessions on Thursdays at 11:00 - 13:45. During these sessions we will work on the week's exercises.
+
+The course's attendance policies follow Haaga-Helia's common policies. Attendance should be marked on Moodle during each session.
+
 The weekly topics and exercise deadlines can be found below. The exercise descriptions can be found in Moodle in the "Exercises" tab.
 
 | Week | Topic                                   | Deadline     |

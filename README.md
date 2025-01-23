@@ -63,7 +63,7 @@ Gradle:
 
 #### Exercises (DL 29.10. at 22)
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle. Submitting the "GitHub account username" submission in Moodle is necessary to receive exercise points.
 
 - Git "Hello world"
@@ -85,7 +85,7 @@ Gradle:
 
 #### Exercises
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
 
 - Map exercises
@@ -104,7 +104,7 @@ This week, we will get familiar with JUnit unit testing and write our own unit t
 
 #### Exercises
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
 
 - JUnit exercises
@@ -124,7 +124,7 @@ This week, we will deepen our object-oriented programming skills by exploring in
 
 #### Exercises
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
 
 - Interfaces and inheritance
@@ -149,7 +149,7 @@ This week, we will deepen our object-oriented programming skills by exploring in
 
 #### Exercises
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
 
 - Streams and lambdas
@@ -167,7 +167,7 @@ This week, we will start by learning how to establish a connection to a database
 
 #### Exercises
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
 
 - SQL databases (Chinook, JDBC & DAO)
@@ -206,7 +206,7 @@ Articles:
 
 #### Exercises
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
 
 - Sorting and filtering
@@ -227,7 +227,7 @@ At the end of the course, we will deepen and apply previous topics, exploring co
 
 #### Exercises
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
 
 - Commit history

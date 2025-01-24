@@ -223,7 +223,6 @@ At the end of the course, we will deepen and apply previous topics, exploring co
 - [Lesson: Concurrency (docs.oracle.com)](https://docs.oracle.com/javase/tutorial/essential/concurrency/)
 - [Java Concurrency (baeldung.com)](https://www.baeldung.com/java-concurrency)
 - [Java Threads (w3schools.com)](https://www.w3schools.com/java/java_threads.asp)
-- [Ohjelmointi 2: rinnakkaisuus (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/rinnakkaisuus/)
 
 #### Exercises
 

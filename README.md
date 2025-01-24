@@ -75,7 +75,7 @@ Gradle:
 
 > _"Maps are data structures stores a collection of key-value pairs. Each key is unique and allows for quick access to values. A real life example of a map could be storing the grades for students in a class (student name is key, grade is value)."_
 >
-> [_Data Structures & Algorithms, Google_](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+> [Data Structures & Algorithms, Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 
 #### Recommended materials
 
@@ -186,9 +186,9 @@ Lesson exercise:
 
 - Wordplay-exercise
 
-> _"The purpose of this exercise is to explore various data structures and algorithms, especially from the perspective of their performance. We will also touch on performance testing of programs and the concept of "asymptotic runtime._
+> _"The purpose of this exercise is to explore various data structures and algorithms, especially from the perspective of their performance. We will also touch on performance testing of programs and the concept of asymptotic runtime._
 >
-> _The first part of the exercise focuses on the performance of Java lists. In the second part, the application to be developed will use an open dataset of names and dictionary entries to find Finnish first names that also have another meaning in the dictionary. Examples of such names include Tuuli ("wind") and Onni ("luck" or "happiness")"_
+> _The first part of the exercise focuses on the performance of Java lists. In the second part, the application to be developed will use an open dataset of names and dictionary entries to find Finnish first names that also have another meaning in the dictionary. Examples of such names include Tuuli ("wind") and Onni ("luck" or "happiness")."_
 
 Videos:
 

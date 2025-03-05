@@ -17,6 +17,8 @@ The course's attendance policies follow Haaga-Helia's common policies. Attendanc
 
 The weekly topics and exercise deadlines can be found below. The exercise descriptions can be found in Moodle's "Exercises" tab.
 
+👉 [Here are the code examples covered during the lessons](https://github.com/hh-programming-2/lessons)
+
 | Week | Topic                                   | Deadline     |
 | ---- | --------------------------------------- | ------------ |
 | 1    | Version control and tools of the course | 31.3. at 23:59 |
@@ -27,8 +29,6 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 | 6    | JDBC & DAO                              | 5.5. at 23:59  |
 | 7    | Data structures and algorithms          | 12.5. at 23:59 |
 | 8    | Advanced and applied topics             | 18.5. at 23:59 |
-
-👉 [Here are the code examples covered during the lessons](https://github.com/hh-programming-2/lessons)
 
 ### Week 1: Version control and tools of the course
 

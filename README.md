@@ -61,7 +61,7 @@ Gradle:
 
 - [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
 
-#### Exercises (DL 29.10. at 22)
+#### Exercises
 
 > [!NOTE]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle. Submitting the "GitHub account username" submission in Moodle is necessary to receive exercise points.

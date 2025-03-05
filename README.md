@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7c8b29c2-4af7-40e0-9c21-709ba3d6931e)# Programming 2
+# Programming 2
 
 Welcome to the Programming 2 course! 👋 In this course, we will deepen our programming skills and apply previously learned programming techniques, including in the context of databases. In addition to syntax and necessary libraries, we will focus on unit testing, automation tools, and version control.
 

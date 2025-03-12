@@ -10,8 +10,8 @@ The course requirements include weekly exercises covering different areas of the
 
 There are two types of weekly sessions:
 
-- Theory sessions on Tuesdays at 11:00 - 13:45. During these sessions we will cover the week's topic.
-- Lab sessions on Thursdays at 11:00 - 13:45. During these sessions we will work on the week's exercises.
+- Theory sessions on Tuesdays at 11:45 - 13:45. During these sessions we will cover the week's topic.
+- Lab sessions on Thursdays at 11:45 - 13:45. During these sessions we will work on the week's exercises.
 
 The course's attendance policies follow Haaga-Helia's common policies. Attendance should be marked on Moodle during each session.
 
@@ -184,7 +184,7 @@ This week, we will start by learning how to establish a connection to a database
 
 Lesson exercise:
 
-- Wordplay-exercise
+- [Wordplay exercise](https://github.com/ohjelmointi2/wordplay-exercise)
 
 > _"The purpose of this exercise is to explore various data structures and algorithms, especially from the perspective of their performance. We will also touch on performance testing of programs and the concept of asymptotic runtime._
 >

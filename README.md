@@ -64,8 +64,9 @@ Gradle:
 #### Exercises
 
 > [!NOTE]  
-> You can find the exercise descriptions in the "Exercises" tab in Moodle. Submitting the "GitHub account username" submission in Moodle is necessary to receive exercise points.
+> You can find the exercise descriptions in the "Exercises" tab in Moodle. Submitting the "Git installation and GitHub account" exercise in Moodle is necessary to receive exercise points.
 
+- Git installation and GitHub account
 - Git "Hello world"
 - Warming up
 

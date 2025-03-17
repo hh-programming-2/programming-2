@@ -19,8 +19,8 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 
 👉 [Here are the code examples covered during the lessons](https://github.com/hh-programming-2/lessons)
 
-| Week | Topic                                   | Deadline     |
-| ---- | --------------------------------------- | ------------ |
+| Week | Topic                                   | Deadline       |
+| ---- | --------------------------------------- | -------------- |
 | 1    | Version control and tools of the course | 31.3. at 23:59 |
 | 2    | The Map data structuce                  | 7.4. at 23:59  |
 | 3    | Unit testing                            | 14.4. at 23:59 |
@@ -250,6 +250,30 @@ The course has weekly exercises which need to be submitted before the deadline. 
 ## 📊 Assesment
 
 The course assesment is based on the 0 to 5 grading scale. The final grade is calculated from the exercises' average so that each week's exercises have the same weight. Grades from individual exercises aren't rounded, but the possible rounding is done only once the final grade is calculated.
+
+This is roughly the formula for the final grade:
+
+```java
+int numberOfWeeks = 8
+
+double week1GitHelloWorldPoints = 1
+double week1WarmingUpPoints = 4.5
+// Week 1 points are a bit special, because there's two separate exercises
+double week1Points = (week1GitHelloWorldPoints + week2WarmingUpPoints * 0.8)
+// Otherwise week points are from 0 to 5
+double week2Points = 4.9
+double week3Points = 4.4
+double week4Points = 4.2
+double week5Points = 3.5
+double week6Points = 2.7
+double week7Points = 5.0
+double week8Points = 5.0
+
+// The final grade is calculated as the average of the week points and rounded up 
+double totalPoints = week1Points + week2Points + week3Points + week4Points // ...
+double finalGrade = Math.round(totalPoints / numberOfWeeks)
+```
+
 
 ## ⏱️ Workload
 

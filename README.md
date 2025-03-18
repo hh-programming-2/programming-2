@@ -61,6 +61,10 @@ Gradle:
 
 - [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
 
+Java in Visual Studio Code:
+
+- [How to set up Java in Visual Studio Code (YouTube)](https://www.youtube.com/watch?v=BB0gZFpukJU)
+
 #### Exercises
 
 > [!NOTE]  
@@ -258,9 +262,9 @@ int numberOfWeeks = 8
 
 double week1GitHelloWorldPoints = 1
 double week1WarmingUpPoints = 4.5
-// Week 1 points are a bit special, because there's two separate exercises
+// Week points are from 0 to 5
+// Week 1 points calculation is a bit special, because there's two separate exercises
 double week1Points = (week1GitHelloWorldPoints + week2WarmingUpPoints * 0.8)
-// Otherwise week points are from 0 to 5
 double week2Points = 4.9
 double week3Points = 4.4
 double week4Points = 4.2
@@ -272,8 +276,8 @@ double week8Points = 5.0
 // The final grade is calculated as the average of the week points and rounded up 
 double totalPoints = week1Points + week2Points + week3Points + week4Points // ...
 double finalGrade = Math.round(totalPoints / numberOfWeeks)
+System.out.println("Your final grade is: " + finalGrade);
 ```
-
 
 ## ⏱️ Workload
 

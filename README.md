@@ -2,7 +2,7 @@
 
 Welcome to the Programming 2 course! 👋 In this course, we will deepen our programming skills and apply previously learned programming techniques, including in the context of databases. In addition to syntax and necessary libraries, we will focus on unit testing, automation tools, and version control.
 
-![cat typing](https://github.com/user-attachments/assets/00f31207-cd68-4bb7-8b78-d0fc0d9b8d67)
+👉 [Full course description](https://opinto-opas.haaga-helia.fi/course_unit/SOF001AS3AE)
 
 ## 📅 Weekly schedule
 

@@ -1,8 +1,8 @@
 import fs from "node:fs/promises";
-import path from 'path'
+import path from "path";
 import { glob } from "glob";
 
-import { parseExerciseFile, anonymizeStudent } from "./utils.js";
+import { parseExerciseFile } from "./utils.js";
 
 const GIT_HELLO_WORLD = 'Git "Hello world"';
 const WARM_UP = "Warm up";
@@ -89,7 +89,7 @@ function getStudentGrading(student) {
     .filter(({ exerciseName }) => !FIRST_WEEK_EXERCISES.includes(exerciseName))
     .map(({ exerciseName, points }) => ({
       exerciseName,
-      points: (points / 20),
+      points: points / 20,
     }));
 
   const scaledPoints = [
@@ -124,10 +124,11 @@ async function getStudentsWithGradingInformation() {
 
 async function writeGradingInformation() {
   const students = await getStudentsWithGradingInformation();
-  const anonymized = students.map(anonymizeStudent);
 
-  await fs.writeFile(path.join(import.meta.dirname, 'data', 'grading.json'), JSON.stringify(students, null, 2));
-  await fs.writeFile(path.join(import.meta.dirname, 'data', 'public-grading.json'), JSON.stringify(anonymized, null, 2));
+  await fs.writeFile(
+    path.join(import.meta.dirname, "data", "grading.json"),
+    JSON.stringify(students, null, 2)
+  );
 }
 
 await writeGradingInformation();

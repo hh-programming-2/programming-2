@@ -1,21 +1,5 @@
 import { parse } from "csv-parse";
 
-export function anonymizeStudent(student) {
-  const { studentNumber, githubUsername, scaledPoints, grade } = student;
-
-  return {
-    studentNumber: `${"*".repeat(studentNumber.length - 3)}${studentNumber.substring(
-      studentNumber.length - 3
-    )}`,
-    githubUsername: `${githubUsername.substring(
-      0,
-      githubUsername.length / 2
-    )}${"*".repeat(githubUsername.length / 2 + 1)}`,
-    points: scaledPoints,
-    grade,
-  };
-}
-
 export function parseExerciseFile(content) {
   const records = [];
 

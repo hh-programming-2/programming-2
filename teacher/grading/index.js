@@ -85,6 +85,8 @@ function getStudentGrading(student) {
   const warmUpPoints =
     rawPoints.find(({ exerciseName }) => exerciseName === WARM_UP)?.points ?? 0;
 
+  const scaledWarmUpPoints = (warmUpPoints / 20) * 0.8;
+ 
   const pointInformationAfterFirstWeek = rawPoints
     .filter(({ exerciseName }) => !FIRST_WEEK_EXERCISES.includes(exerciseName))
     .map(({ exerciseName, points }) => ({
@@ -94,7 +96,7 @@ function getStudentGrading(student) {
 
   const scaledPoints = [
     { exerciseName: GIT_HELLO_WORLD, points: gitHelloWorldPoints },
-    { exerciseName: WARM_UP, points: warmUpPoints },
+    { exerciseName: WARM_UP, points: scaledWarmUpPoints },
     ...pointInformationAfterFirstWeek,
   ];
 

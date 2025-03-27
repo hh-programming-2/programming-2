@@ -1,5 +1,8 @@
 import { parse } from "csv-parse";
 
+const STUDENT_INFORMATION_SUBMISSION_PATH_REGEXP =
+  /(?<fullName>[\w ]+)_(?<studentNumber>[0-9]+)_assignsubmission/;
+
 export function parseExerciseFile(content) {
   const records = [];
 
@@ -19,7 +22,7 @@ export function parseExerciseFile(content) {
     });
 
     parser.on("error", function (err) {
-      rejects(error);
+      reject(err);
     });
 
     parser.on("end", function () {
@@ -32,4 +35,14 @@ export function parseExerciseFile(content) {
       );
     });
   });
+}
+
+export function parseGitSubmissionPath(submissionPath) {
+  const { fullName, studentNumber } =
+    STUDENT_INFORMATION_SUBMISSION_PATH_REGEXP.exec(submissionPath).groups;
+
+  return {
+    fullName,
+    studentNumber,
+  };
 }

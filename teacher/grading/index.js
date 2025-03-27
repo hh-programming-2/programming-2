@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 import path from "path";
 import { glob } from "glob";
 
-import { parseExerciseFile } from "./utils.js";
+import { parseExerciseFile, parseGitSubmissionPath } from "./utils.js";
 
 const GIT_HELLO_WORLD = 'Git "Hello world"';
 const WARM_UP = "Warm up";
@@ -38,17 +38,22 @@ async function getStudents() {
 
   for (const file of exerciseGlob) {
     const content = await fs.readFile(file, { encoding: "utf8" });
-    const [, , studentDirectory] = file.split("\\");
-    const [fullName, studentNumber] = studentDirectory.split("_");
+    const { fullName, studentNumber } = parseGitSubmissionPath(file);
 
     const githubUsername =
       githubUsernames.find((username) => content.includes(username)) ?? null;
 
-    students.push({
-      fullName,
-      studentNumber,
-      githubUsername,
-    });
+    if (githubUsername) {
+      students.push({
+        fullName,
+        studentNumber,
+        githubUsername,
+      });
+    } else {
+      console.warn(
+        `Missing GitHub username for student ${fullName}, ${studentNumber}`
+      );
+    }
   }
 
   return students;
@@ -86,7 +91,7 @@ function getStudentGrading(student) {
     rawPoints.find(({ exerciseName }) => exerciseName === WARM_UP)?.points ?? 0;
 
   const scaledWarmUpPoints = (warmUpPoints / 20) * 0.8;
- 
+
   const pointInformationAfterFirstWeek = rawPoints
     .filter(({ exerciseName }) => !FIRST_WEEK_EXERCISES.includes(exerciseName))
     .map(({ exerciseName, points }) => ({
@@ -105,7 +110,7 @@ function getStudentGrading(student) {
     .reduce((sum, current) => sum + current, 0);
 
   const grade = Math.round(
-    (gitHelloWorldPoints + warmUpPoints + pointsAfterFirstWeek) / 8
+    (gitHelloWorldPoints + scaledWarmUpPoints + pointsAfterFirstWeek) / 8
   );
 
   return {
@@ -126,10 +131,20 @@ async function getStudentsWithGradingInformation() {
 
 async function writeGradingInformation() {
   const students = await getStudentsWithGradingInformation();
+  
+  const formattedStudents = students.map(
+    ({ fullName, studentNumber, githubUsername, scaledPoints, grade }) => ({
+      fullName,
+      studentNumber,
+      githubUsername,
+      grade,
+      points: scaledPoints,
+    })
+  );
 
   await fs.writeFile(
     path.join(import.meta.dirname, "data", "grading.json"),
-    JSON.stringify(students, null, 2)
+    JSON.stringify(formattedStudents, null, 2)
   );
 }
 

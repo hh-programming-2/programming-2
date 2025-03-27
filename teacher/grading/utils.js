@@ -3,6 +3,9 @@ import { parse } from "csv-parse";
 const STUDENT_INFORMATION_SUBMISSION_PATH_REGEXP =
   /(?<fullName>[\w ]+)_(?<studentNumber>[0-9]+)_assignsubmission/;
 
+const GITHUB_USERNAME_REGEXP =
+  />(?:https:\/\/github.com\/)?(?<githubUsername>\w+)</;
+
 export function parseExerciseFile(content) {
   const records = [];
 
@@ -35,6 +38,13 @@ export function parseExerciseFile(content) {
       );
     });
   });
+}
+
+export function parseGitHubUsername(submissionContent) {
+  const { githubUsername } =
+    GITHUB_USERNAME_REGEXP.exec(submissionContent)?.groups ?? {};
+
+  return githubUsername ?? null;
 }
 
 export function parseGitSubmissionPath(submissionPath) {

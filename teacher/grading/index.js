@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 import path from "path";
 import { glob } from "glob";
 
-import { parseExerciseFile, parseGitSubmissionPath } from "./utils.js";
+import { parseExerciseFile, parseGitHubUsername, parseGitSubmissionPath } from "./utils.js";
 
 const GIT_HELLO_WORLD = 'Git "Hello world"';
 const WARM_UP = "Warm up";
@@ -21,27 +21,14 @@ async function getExercisePoints() {
   return exercisePoints;
 }
 
-async function getGitHubUsernames() {
-  const exercisePoints = await getExercisePoints();
-
-  const usernames = exercisePoints.flatMap((grades) =>
-    grades.map(({ github_username }) => github_username)
-  );
-
-  return Array.from(new Set(usernames));
-}
-
 async function getStudents() {
   const exerciseGlob = await glob(["data/username-submissions/*/*.html"]);
-  const githubUsernames = Array.from(await getGitHubUsernames());
   const students = [];
 
   for (const file of exerciseGlob) {
     const content = await fs.readFile(file, { encoding: "utf8" });
     const { fullName, studentNumber } = parseGitSubmissionPath(file);
-
-    const githubUsername =
-      githubUsernames.find((username) => content.includes(username)) ?? null;
+    const githubUsername = parseGitHubUsername(content);
 
     if (githubUsername) {
       students.push({

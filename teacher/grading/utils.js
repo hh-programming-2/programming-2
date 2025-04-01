@@ -4,7 +4,7 @@ const STUDENT_INFORMATION_SUBMISSION_PATH_REGEXP =
   /(?<fullName>[\w ]+)_(?<studentNumber>[0-9]+)_assignsubmission/;
 
 const GITHUB_USERNAME_REGEXP =
-  />(?:https:\/\/github.com\/)?(?<githubUsername>\w+)</;
+  />(?:https:\/\/github.com\/)?(?<githubUsername>[\w_-]+)</;
 
 export function parseExerciseFile(content) {
   const records = [];

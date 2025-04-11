@@ -31,6 +31,7 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 | 8    | [Advanced and applied topics](#week-8)             | 18.5. at 23:59 |
 
 <div id="week-1"></div>
+
 ### Week 1: Version control and tools of the course
 
 > [!IMPORTANT]
@@ -78,6 +79,7 @@ Java in Visual Studio Code:
 ---
 
 <div id="week-2"></div>
+
 ### Week 2: The Map data structuce
 
 > _"Maps are data structures stores a collection of key-value pairs. Each key is unique and allows for quick access to values. A real life example of a map could be storing the grades for students in a class (student name is key, grade is value)."_
@@ -100,6 +102,7 @@ Java in Visual Studio Code:
 ---
 
 <div id="week-3"></div>
+
 ### Week 3: Unit testing
 
 This week, we will get familiar with JUnit unit testing and write our own unit tests for existing code.
@@ -120,6 +123,7 @@ This week, we will get familiar with JUnit unit testing and write our own unit t
 ---
 
 <div id="week-4"></div>
+
 ### Week 4: Inheritance and interfaces
 
 This week, we will deepen our object-oriented programming skills by exploring inheritance and interfaces. Inheritance and interfaces are object-oriented solutions that promote code reusability and compatibility.
@@ -141,6 +145,7 @@ This week, we will deepen our object-oriented programming skills by exploring in
 ---
 
 <div id="week-5"></div>
+
 ### Week 5: Streams and lambdas
 
 > _"The **Stream API** is probably the second most important feature added to Java SE 8, after the **lambda expressions**. In a nutshell, the Stream API is about providing an implementation of the well known map-filter-reduce algorithm to the JDK._
@@ -167,6 +172,7 @@ This week, we will deepen our object-oriented programming skills by exploring in
 ---
 
 <div id="week-6"></div>
+
 ### Week 6: JDBC & DAO
 
 This week, we will start by learning how to establish a connection to a database from a Java program and perform basic CRUD operations (Create, Read, Update, & Delete). We will also explore the DAO (Data Access Object) design pattern, which models both database operations and the data contained in the database using Java classes.
@@ -186,6 +192,7 @@ This week, we will start by learning how to establish a connection to a database
 ---
 
 <div id="week-7"></div>
+
 ### Week 7: Data structures and algorithms
 
 > _"A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer."_
@@ -224,6 +231,8 @@ Articles:
 - Sorting and filtering
 
 ---
+
+<div id="week-8"></div>
 
 ### Week 8: Advanced and applied topics
 

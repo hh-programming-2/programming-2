@@ -21,7 +21,7 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 
 | Week | Topic                                   | Deadline       |
 | ---- | --------------------------------------- | -------------- |
-| 1    | Version control and tools of the course | 31.3. at 23:59 |
+| 1    | [Version control and tools of the course](#week-1) | 31.3. at 23:59 |
 | 2    | The Map data structuce                  | 7.4. at 23:59  |
 | 3    | Unit testing                            | 14.4. at 23:59 |
 | 4    | Inheritance and interfaces              | 21.4. at 23:59 |
@@ -31,6 +31,7 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 | 8    | Advanced and applied topics             | 18.5. at 23:59 |
 
 ### Week 1: Version control and tools of the course
+<div id="week-1"></div>
 
 > [!IMPORTANT]
 > To confirm your course participation, it is necessary to submit the first week's exercises before the deadline.

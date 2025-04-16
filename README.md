@@ -91,6 +91,7 @@ Java in Visual Studio Code:
 - [Map and HashMap in Java (Coding with John, YouTube)](https://youtu.be/H62Jfv1DJlU)
 - [Using Maps to Store Key Value Pairs (dev.java)](https://dev.java/learn/api/collections-framework/maps/)
 - [Managing the Content of a Map (dev.java)](https://dev.java/learn/api/collections-framework/working-with-keys-and-values/)
+- [Lesson examples](https://github.com/hh-programming-2/lessons?tab=readme-ov-file#lesson-2-map)
 
 #### Exercises
 
@@ -112,6 +113,7 @@ This week, we will get familiar with JUnit unit testing and write our own unit t
 - [JUnit 5 User Guide (junit.org)](https://junit.org/junit5/docs/current/user-guide/)
 - [Java Unit Testing with JUnit (Coding with John, YouTube)](https://youtu.be/vZm0lHciFsQ)
 - [Introduction to testing (mooc.fi)](https://java-programming.mooc.fi/part-6/3-introduction-to-testing)
+- [Lesson examples](https://github.com/hh-programming-2/lessons?tab=readme-ov-file#lesson-3-junit)
 
 #### Exercises
 
@@ -134,6 +136,7 @@ This week, we will deepen our object-oriented programming skills by exploring in
 - [Java Polymorphism Fully Explained In 7 Minutes (Coding with John, YouTube)](https://youtu.be/jhDUxynEQRI)
 - [Super Keyword in Java Full Tutorial - How to Use "super" (Coding with John, YouTube)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)
 - [Inheritance and interfaces (mooc.fi)](https://java-programming.mooc.fi/part-9)
+- [Lesson examples](https://github.com/hh-programming-2/lessons?tab=readme-ov-file#lesson-4-object-modelling-inheritance-and-interfaces)
 
 #### Exercises
 
@@ -161,6 +164,7 @@ This week, we will deepen our object-oriented programming skills by exploring in
 - [Optionals In Java (Coding with John, YouTube)](https://youtu.be/vKVzRbsMnTQ)
 - [Java 8 STREAMS Tutorial (Oggi AI, YouTube)](https://youtu.be/t1-YZ6bF-g0)
 - [The Java 8 Stream API Tutorial (baeldung.com)](https://www.baeldung.com/java-8-streams)
+- [Lesson examples](https://github.com/hh-programming-2/lessons?tab=readme-ov-file#lesson-5-streams-lambdas-and-optionals)
 
 #### Exercises
 
@@ -181,6 +185,7 @@ This week, we will start by learning how to establish a connection to a database
 
 - [Java Database Connectivity (Telusko, YouTube)](https://youtu.be/7v2OnUti2eM)
 - [Introduction to JDBC (baeldung.com)](https://www.baeldung.com/java-jdbc)
+- [Lesson examples](https://github.com/hh-programming-2/lessons?tab=readme-ov-file#lesson-6-database-connection-with-java-jdbc)
 
 #### Exercises
 
@@ -244,6 +249,7 @@ At the end of the course, we will deepen and apply previous topics, exploring co
 - [Lesson: Concurrency (docs.oracle.com)](https://docs.oracle.com/javase/tutorial/essential/concurrency/)
 - [Java Concurrency (baeldung.com)](https://www.baeldung.com/java-concurrency)
 - [Java Threads (w3schools.com)](https://www.w3schools.com/java/java_threads.asp)
+- [Lesson examples](https://github.com/hh-programming-2/lessons?tab=readme-ov-file#lesson-8-threads-and-recursion)
 
 #### Exercises
 

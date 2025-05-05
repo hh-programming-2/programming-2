@@ -206,9 +206,8 @@ This week, we will start by learning how to establish a connection to a database
 
 #### Recommended materials
 
-Lesson exercise:
-
-- [Wordplay exercise](https://github.com/ohjelmointi2/wordplay-exercise)
+- [Wordplay exercise (lesson exercise)](https://github.com/ohjelmointi2/wordplay-exercise)
+- [Lesson examples](https://github.com/hh-programming-2/lessons?tab=readme-ov-file#lesson-7-data-structures-and-algorithms)
 
 > _"The purpose of this exercise is to explore various data structures and algorithms, especially from the perspective of their performance. We will also touch on performance testing of programs and the concept of asymptotic runtime._
 >

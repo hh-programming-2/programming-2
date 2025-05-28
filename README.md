@@ -21,21 +21,21 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 
 | Week | Topic                                   | Deadline       |
 | ---- | --------------------------------------- | -------------- |
-| 1    | [Version control and tools of the course](#week-1) | 31.3. at 23:59 |
-| 2    | [The Map data structure](#week-2)                  | 7.4. at 23:59  |
-| 3    | [Unit testing](#week-3)                            | 14.4. at 23:59 |
-| 4    | [Inheritance and interfaces](#week-4)              | 21.4. at 23:59 |
-| 5    | [Streams and lambdas](#week-5)                     | 28.4. at 23:59 |
-| 6    | [JDBC & DAO](#week-6)                              | 5.5. at 23:59  |
-| 7    | [Data structures and algorithms](#week-7)          | 12.5. at 23:59 |
-| 8    | [Advanced and applied topics](#week-8)             | 18.5. at 23:59 |
+| 1    | [Version control and tools of the course](#week-1) | 29.10. at 9:00 |
+| 2    | [The Map data structure](#week-2)                  | 5.11. at 9:00  |
+| 3    | [Unit testing](#week-3)                            | 12.11. at 9:00 |
+| 4    | [Inheritance and interfaces](#week-4)              | 19.11. at 9:00 |
+| 5    | [Streams and lambdas](#week-5)                     | 26.11. at 9:00 |
+| 6    | [JDBC & DAO](#week-6)                              | 3.12. at 9:00  |
+| 7    | [Data structures and algorithms](#week-7)          | 10.12. at 9:00 |
+| 8    | [Advanced and applied topics](#week-8)             | 13.12. at 23:59 |
 
 <div id="week-1"></div>
 
 ### Week 1: Version control and tools of the course
 
 > [!IMPORTANT]
-> To confirm your course participation, it is necessary to submit the first week's exercises before the deadline.
+> To confirm your course participation, you must submit the first week's exercises before the deadline.
 
 In the first week of the course, we will get acquainted with the tools we will be using throughout the remainder of the course. Our goal is to enable the application to run smoothly outside of the code editor and to automate if needed, the building, dependency installation, packaging, and testing of the application.
 

@@ -10,8 +10,8 @@ The course requirements include weekly exercises covering different areas of the
 
 There are two types of weekly sessions:
 
-- Theory sessions on Tuesdays at 11:00 - 13:45 (lunch break at 11:45 - 12:30). During these sessions we will cover the week's topic.
-- Lab sessions on Thursdays at 11:00 - 13:45 (lunch break at 11:45 - 12:30). During these sessions we will work on the week's exercises.
+- Theory sessions on Wednesdays from 14:00 to 16:45. During these sessions, we will cover the week's topic.
+- Lab sessions on Fridays from 11:00 to 13:45 (lunch break at around 11:45 - 12:30). During these sessions, we will work on the week's exercises.
 
 The course's attendance policies follow Haaga-Helia's common policies. Attendance should be marked on Moodle during each session.
 

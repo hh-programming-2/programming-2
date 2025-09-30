@@ -37,7 +37,7 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 > [!IMPORTANT]
 > To confirm your course participation, you must submit the first week's exercises before the deadline.
 
-In the first week of the course, we will get acquainted with the tools we will be using throughout the remainder of the course. Our goal is to enable the application to run smoothly outside of the code editor and to automate if needed, the building, dependency installation, packaging, and testing of the application.
+In the first week of the course, we will get acquainted with the tools we will be using throughout the remainder of the course. Our goal is to enable the application to run smoothly outside of the code editor and to automate if needed, the building, dependency installation, packaging, and testing of the application. You can use any coding editor during the course, but **the use of [Visual Studio Code](https://code.visualstudio.com/) is highly recommended**, and it will be used in all the lesson examples. Note that, **using generative AI tools (e.g., ChatGPT or Copilot) to generate solutions directly is strictly forbidden** and considered plagiarism. If you are using Visual Studio Code's GitHub Copilot extension or some other code generation autocomplete extension, make sure they are disabled. 
 
 Git version control will be used in this course for distributing assignments, submitting them, and for automatic evaluation. In future courses and in working life, you will likely use version control as an essential part of daily work.
 

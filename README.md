@@ -64,13 +64,13 @@ Git:
 - [Git add](https://www.atlassian.com/git/tutorials/saving-changes)
 - [Git Cheat Sheet, pdf (GitHub)](https://education.github.com/git-cheat-sheet-education.pdf)
 
-Gradle:
-
-- [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
-
 Java in Visual Studio Code:
 
 - [How to set up Java in Visual Studio Code (YouTube)](https://www.youtube.com/watch?v=BB0gZFpukJU)
+
+Gradle:
+
+- [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
 
 #### Exercises
 

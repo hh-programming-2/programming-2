@@ -67,7 +67,7 @@ Git:
 Java in Visual Studio Code:
 
 - [How to set up Java in Visual Studio Code (YouTube)](https://www.youtube.com/watch?v=BB0gZFpukJU)
-- If you have already set up Java for Visual Studio Code and want to update the Java version, check [Downloading a new JDK version](https://code.visualstudio.com/docs/java/java-project#_download-jdks)
+- If you have already set up Java for Visual Studio Code and want to update the Java version, check [How to Install JDK for VS Code (YouTube)](https://www.youtube.com/watch?v=4v6ua2_S5jI)
 
 Gradle:
 

@@ -28,7 +28,7 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 | 5    | [Streams and lambdas](#week-5)                     | 26.11. at 9:00 |
 | 6    | [JDBC & DAO](#week-6)                              | 3.12. at 9:00  |
 | 7    | [Data structures and algorithms](#week-7)          | 10.12. at 9:00 |
-| 8    | [Advanced and applied topics](#week-8)             | 13.12. at 23:59 |
+| 8    | [Advanced and applied topics](#week-8)             | 14.12. at 23:59 |
 
 <div id="week-1"></div>
 

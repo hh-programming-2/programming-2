@@ -2,10 +2,14 @@ import fs from "node:fs/promises";
 import path from "path";
 import { glob } from "glob";
 
-import { parseExerciseFile, parseGitHubUsername, parseGitSubmissionPath } from "./utils.js";
+import {
+  parseExerciseFile,
+  parseGitHubUsername,
+  parseGitSubmissionPath,
+} from "./utils.js";
 
 const GIT_HELLO_WORLD = 'Git "Hello world"';
-const WARM_UP = "Warm up";
+const WARM_UP = "Warming up";
 const FIRST_WEEK_EXERCISES = [GIT_HELLO_WORLD, WARM_UP];
 
 async function getExercisePoints() {
@@ -49,6 +53,24 @@ async function getStudents() {
 async function studentsWithExercisePoints(students) {
   const exercisePoints = await getExercisePoints();
 
+  const knownUsernames = new Set(
+    students.map((student) => student.githubUsername)
+  );
+
+  const exerciseUsernames = new Set(
+    exercisePoints.flatMap((exercise) =>
+      exercise.map(({ github_username }) => github_username)
+    )
+  );
+
+  const unknownUsernames = Array.from(exerciseUsernames).filter(
+    (username) => !knownUsernames.has(username)
+  );
+
+  if (unknownUsernames.length > 0) {
+    console.warn(`Unknown GitHub usernames: ${unknownUsernames.join(", ")}`);
+  }
+
   return students.map((student) => ({
     ...student,
     rawPoints: exercisePoints.map((exercise) => {
@@ -80,7 +102,10 @@ function getStudentGrading(student) {
   const scaledWarmUpPoints = (warmUpPoints / 20) * 0.8;
 
   const pointInformationAfterFirstWeek = rawPoints
-    .filter(({ exerciseName }) => !FIRST_WEEK_EXERCISES.includes(exerciseName))
+    .filter(
+      ({ exerciseName }) =>
+        exerciseName && !FIRST_WEEK_EXERCISES.includes(exerciseName)
+    )
     .map(({ exerciseName, points }) => ({
       exerciseName,
       points: points / 20,
@@ -118,7 +143,7 @@ async function getStudentsWithGradingInformation() {
 
 async function writeGradingInformation() {
   const students = await getStudentsWithGradingInformation();
-  
+
   const formattedStudents = students.map(
     ({ fullName, studentNumber, githubUsername, scaledPoints, grade }) => ({
       fullName,

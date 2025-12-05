@@ -6,14 +6,14 @@ Welcome to the Programming 2 course! 👋 In this course, we will deepen our pro
 
 ## Contents
 
-* [Weekly schedule](#-weekly-schedule)
-* [Confirming the course participation](#-confirming-the-course-participation)
-* [Submitting exercises](#-submitting-exercises)
-* [Assesment](#-assesment)
-* [Workload](#-workload)
-* [Finding information](#-finding-information)
-* [Using sources of information](#-using-sources-of-information)
-* [Prerequisites](#-prerequisites)
+- [Weekly schedule](#-weekly-schedule)
+- [Confirming the course participation](#-confirming-the-course-participation)
+- [Submitting exercises](#-submitting-exercises)
+- [Assesment](#-assesment)
+- [Workload](#-workload)
+- [Finding information](#-finding-information)
+- [Using sources of information](#-using-sources-of-information)
+- [Prerequisites](#-prerequisites)
 
 ## 📅 Weekly schedule
 

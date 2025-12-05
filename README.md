@@ -4,6 +4,17 @@ Welcome to the Programming 2 course! 👋 In this course, we will deepen our pro
 
 👉 [Full course description](https://opinto-opas.haaga-helia.fi/course_unit/SOF001AS3AE)
 
+## Contents
+
+* [Weekly schedule](#-weekly-schedule)
+* [Confirming the course participation](#-confirming-the-course-participation)
+* [Submitting exercises](#-submitting-exercises)
+* [Assesment](#-assesment)
+* [Workload](#-workload)
+* [Finding information](#-finding-information)
+* [Using sources of information](#-using-sources-of-information)
+* [Prerequisites](#-prerequisites)
+
 ## 📅 Weekly schedule
 
 The course requirements include weekly exercises covering different areas of the course. [GitHub Classroom](https://classroom.github.com/) will be used for the technical implementation of the exercises. Exercises must be submitted according to the schedule, and late submissions will generally not be accepted. In cases of force majeure, _extensions must be requested well in advance of the exercise deadline_.
@@ -268,10 +279,6 @@ At the end of the course, we will deepen and apply previous topics, exploring co
 ## ✅ Confirming the course participation
 
 **To confirm your course participation, it is necessary to submit the firt week's exercises before the deadline.** The first week's exercises will revisit topics you have learned previously. The purpose of this practice is not to stop anyone from learning or completing the course but to make sure that everyone can get started with the course without problems.
-
-## 💬 Communication channels
-
-Course-related discussion is organized in Teams. If you are stuck with your code or you don't understand the materials or exercises, don't hesitate to ask for help. It is likely that other students have similar issues, so send your questions to the course channel for others to learn as well instead of as a private message.
 
 ## 📥 Submitting exercises
 

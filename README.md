@@ -282,7 +282,7 @@ At the end of the course, we will deepen and apply previous topics, exploring co
 
 ## 📥 Submitting exercises
 
-The course has weekly exercises which need to be submitted before the deadline. Exercises will be submitted to GitHub. Don't hesitate to ask for help with the exercises during the lessons or in Teams from the teacher or your fellow students.
+The course has weekly exercises which need to be submitted before the deadline. Exercises will be submitted to GitHub. Don't hesitate to ask for help with the exercises during the lessons from the teacher or your fellow students.
 
 ## 📊 Assesment
 
@@ -332,7 +332,7 @@ System.out.println(workHoursForOneWeek); // 16.875 hours a week
 
 This course material is mostly based on external online resources, such as documentation and tutorials. Each topic contains links to relevant materials but **you will also need to find relevant resources yourself**.
 
-The purpose of the course exercises is not only to assess whether you have understood the material presented in the lessons or learning materials; rather, solving the exercises requires independent information gathering. Alongside working independently, we recommend asking questions and discussing topics on the course's Teams channel.
+The purpose of the course exercises is not only to assess whether you have understood the material presented in the lessons or learning materials; rather, solving the exercises requires independent information gathering. Alongside working independently, we recommend asking questions during the lessons.
 
 ## 📑 Using sources of information
 

@@ -121,9 +121,10 @@ function getStudentGrading(student) {
     .map(({ points }) => points)
     .reduce((sum, current) => sum + current, 0);
 
-  const grade = Math.round(
-    (gitHelloWorldPoints + scaledWarmUpPoints + pointsAfterFirstWeek) / 8
-  );
+  const totalPoints =
+    gitHelloWorldPoints + scaledWarmUpPoints + pointsAfterFirstWeek;
+
+  const grade = totalPoints < 8 ? 0 : Math.round(totalPoints / 8);
 
   return {
     scaledPoints,

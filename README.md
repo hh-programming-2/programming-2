@@ -286,30 +286,17 @@ The course has weekly exercises which need to be submitted before the deadline. 
 
 ## 📊 Assesment
 
-The course assesment is based on the 0 to 5 grading scale. The final grade is calculated from the exercises' average so that each week's exercises have the same weight. Grades from individual exercises aren't rounded, but the possible rounding is done only once the final grade is calculated.
-
-This is roughly the formula for the final grade:
+The course assesment is based on the 0 to 5 grading scale. The final grade is calculated as the average of weekly exercise points (5 points a week, 8 weeks in total). Grades from individual exercises aren't rounded, but the possible rounding is done only once the final grade is calculated. At least 8 exercise points is required for a passing grade.
 
 ```java
-int numberOfWeeks = 8
+// totalExercisePoints = week1Points + ... + week8Points
+public int calculateFinalGrade(double totalExercisePoints) {
+  if (totalExercisePoints < 8) {
+    return 0;
+  }
 
-double week1GitHelloWorldPoints = 1
-double week1WarmingUpPoints = 4.5
-// Week points are from 0 to 5
-// Week 1 points calculation is a bit special, because there's two separate exercises
-double week1Points = (week1GitHelloWorldPoints + week2WarmingUpPoints * 0.8)
-double week2Points = 4.9
-double week3Points = 4.4
-double week4Points = 4.2
-double week5Points = 3.5
-double week6Points = 2.7
-double week7Points = 5.0
-double week8Points = 5.0
-
-// The final grade is calculated as the average of the week points and rounded up 
-double totalPoints = week1Points + week2Points + week3Points + week4Points // ...
-double finalGrade = Math.round(totalPoints / numberOfWeeks)
-System.out.println("Your final grade is: " + finalGrade);
+  return Math.round(totalExercisePoints / 8);
+}
 ```
 
 ## ⏱️ Workload

@@ -20,7 +20,7 @@ Welcome to the Programming 2 course! 👋 In this course, we will deepen our pro
 The course requirements include weekly exercises covering different areas of the course. [GitHub Classroom](https://classroom.github.com/) will be used for the technical implementation of the exercises. Exercises must be submitted according to the schedule, and late submissions will generally not be accepted. In cases of force majeure, _extensions must be requested well in advance of the exercise deadline_.
 
 There are two types of weekly sessions:
-
+<!-- TODO -->
 - Theory sessions on Wednesdays from 14:00 to 16:45. During these sessions, we will cover the week's topic.
 - Lab sessions on Fridays from 11:00 to 13:45 (lunch break at around 11:45 - 12:30). During these sessions, we will work on the week's exercises.
 
@@ -29,17 +29,17 @@ The course's attendance policies follow Haaga-Helia's common policies. Attendanc
 The weekly topics and exercise deadlines can be found below. The exercise descriptions can be found in Moodle's "Exercises" tab.
 
 👉 [Here are the code examples covered during the lessons](https://github.com/hh-programming-2/lessons)
-
+<!-- TODO -->
 | Week | Topic                                   | Deadline       |
 | ---- | --------------------------------------- | -------------- |
-| 1    | [Version control and tools of the course](#week-1) | 29.10. at 9:00 |
-| 2    | [The Map data structure](#week-2)                  | 5.11. at 9:00  |
-| 3    | [Unit testing](#week-3)                            | 12.11. at 9:00 |
-| 4    | [Inheritance and interfaces](#week-4)              | 19.11. at 9:00 |
-| 5    | [Streams and lambdas](#week-5)                     | 26.11. at 9:00 |
-| 6    | [JDBC & DAO](#week-6)                              | 3.12. at 9:00  |
-| 7    | [Data structures and algorithms](#week-7)          | 10.12. at 9:00 |
-| 8    | [Advanced and applied topics](#week-8)             | 14.12. at 23:59 |
+| 1    | [Version control and tools of the course](#week-1) | 1.4. at 8:00 |
+| 2    | [The Map data structure](#week-2)                  | 8.4. at 8:00  |
+| 3    | [Unit testing](#week-3)                            | 15.4. at 8:00 |
+| 4    | [Inheritance and interfaces](#week-4)              | 22.4. at 8:00 |
+| 5    | [Streams and lambdas](#week-5)                     | 29.4. at 8:00 |
+| 6    | [JDBC & DAO](#week-6)                              | 6.5. at 8:00  |
+| 7    | [Data structures and algorithms](#week-7)          | 13.5. at 8:00 |
+| 8    | [Advanced and applied topics](#week-8)             | 17.5. at 23:59 |
 
 <div id="week-1"></div>
 

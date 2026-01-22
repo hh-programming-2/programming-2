@@ -17,6 +17,9 @@ Welcome to the Programming 2 course! 👋 In this course, we will deepen our pro
 
 ## 📅 Weekly schedule
 
+> [!IMPORTANT]
+> Course assessment is based on weekly exercise points. Submissions made after the weekly deadline won't earn points.
+
 The course requirements include weekly exercises covering different areas of the course. [GitHub Classroom](https://classroom.github.com/) will be used for the technical implementation of the exercises. Exercises must be submitted according to the schedule, and late submissions will generally not be accepted. In cases of force majeure, _extensions must be requested well in advance of the exercise deadline_.
 
 There are two types of weekly sessions:

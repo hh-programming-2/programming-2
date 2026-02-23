@@ -20,6 +20,9 @@ Welcome to the Programming 2 course! 👋 In this course, we will deepen our pro
 > [!IMPORTANT]
 > Course assessment is based on weekly exercise points. Submissions made after the weekly deadline won't earn points.
 
+> [!CAUTION]
+> Using generative AI tools (e.g., ChatGPT or Copilot) to generate solutions directly is strictly forbidden and considered plagiarism. If you are using Visual Studio Code's GitHub Copilot extension or some other code generation autocomplete extension, make sure they are disabled. 
+
 The course requirements include weekly exercises covering different areas of the course. [GitHub Classroom](https://classroom.github.com/) will be used for the technical implementation of the exercises. Exercises must be submitted according to the schedule, and late submissions will generally not be accepted. In cases of force majeure, _extensions must be requested well in advance of the exercise deadline_.
 
 There are two types of weekly sessions:
@@ -285,11 +288,14 @@ At the end of the course, we will deepen and apply previous topics, exploring co
 
 ## 📥 Submitting exercises
 
-The course has weekly exercises which need to be submitted before the deadline. Exercises will be submitted to GitHub. Don't hesitate to ask for help with the exercises during the lessons from the teacher or your fellow students.
+The course has weekly exercises that need to be submitted before the deadline. Exercises will be submitted to GitHub. Don't hesitate to ask for help with the exercises during the lessons from the teacher or your fellow students.
 
 ## 📊 Assesment
 
-The course assesment is based on the 0 to 5 grading scale. The final grade is calculated as the average of weekly exercise points (5 points a week, 8 weeks in total). Grades from individual exercises aren't rounded, but the possible rounding is done only once the final grade is calculated. At least 8 exercise points is required for a passing grade.
+> [!CAUTION]
+> Submissions made after the weekly deadline won't earn points, unless discussed otherwise before the deadline.
+
+The course assessment is based on the 0 to 5 grading scale. The final grade is calculated as the average of weekly exercise points (5 points a week, 8 weeks in total). Grades from individual exercises aren't rounded, but the possible rounding is done only once the final grade is calculated. At least 8 exercise points are required for a passing grade.
 
 ```java
 // totalExercisePoints = week1Points + ... + week8Points
@@ -304,7 +310,7 @@ public int calculateFinalGrade(double totalExercisePoints) {
 
 ## ⏱️ Workload
 
-The course lasts 8 weeks and is worth 5 credits. This means that the official workload in hours is around 135 hours, which responds to around 17 hours a week. That being said, reserve enough time for course each week.
+The course lasts 8 weeks and is worth 5 credits. This means that the official workload in hours is around 135 hours, which responds to around 17 hours a week. That being said, reserve enough time for the course each week.
 
 ```java
 int durationInWeeks = 8;
@@ -326,7 +332,7 @@ The purpose of the course exercises is not only to assess whether you have under
 
 ## 📑 Using sources of information
 
-Programming problems often have ready-made or partial solutions available across the Internet, from forums to tutorials. In the worst case, you might find a solution that works for your problem but don't fully understand what the code does or why it solves the issue. In professional software development, this can lead to potentially serious consequences.
+Programming problems often have ready-made or partial solutions available across the Internet, from forums to tutorials. In the worst case, you might find a solution that works for your problem, but don't fully understand what the code does or why it solves the issue. In professional software development, this can lead to potentially serious consequences.
 
 Using online sources and drawing inspiration from them is allowed and encouraged, but you must not simply copy solutions; you need to understand how your code works. Additionally, especially since this is a university course, you are required to cite your sources when you borrow code, for example, from StackOverflow. An appropriate citation could be the webpage URL as a Java comment alongside the borrowed code, or another type of reference compliant with the source’s terms of use.
 

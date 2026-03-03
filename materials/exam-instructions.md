@@ -16,13 +16,13 @@ The exam consists of an essay, code interpretation, and small coding tasks. The 
 The focus is on the following topics:
 
 - The purpose of inheritance and interfaces, and how to use them in code.
-- The purpose of common data structures, such as `ArrayList`, `HashMap`, and arrays, and how to use them in code.
+- The purpose of common data structures, such as `ArrayList`, `HashMap`, and array, and how to use them in code.
 - The purpose of streams and lambdas and how to use the common stream operations, such as `map` and `filter`, in code.
-- The purpose of unit testing and how to implement simple tests with JUnit.
+- The purpose of unit testing and how to implement simple unit tests with JUnit.
 - The purpose of the DAO pattern.
 
 The following topics are **excluded from the exam**:
 
 - Database programming-related code (JDBC).
-- Algorithms-related code, for example, bubble sort or other sorting algorithm implementations.
+- Details how sorting algorithms, such as bubble sort, are implemented.
 - Final week, "Advanced and applied topics", related topics.

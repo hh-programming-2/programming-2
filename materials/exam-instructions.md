@@ -16,7 +16,7 @@ The exam consists of an essay, code interpretation, and small coding tasks. The 
 The focus is on the following topics:
 
 - The purpose of inheritance and interfaces, and how to use them in code.
-- The purpose of common data structures, such as `ArrayList`, `Map`, and arrays, and how to use them in code.
+- The purpose of common data structures, such as `ArrayList`, `HashMap`, and arrays, and how to use them in code.
 - The purpose of streams and lambdas and how to use the common stream operations, such as `map` and `filter`, in code.
 - The purpose of unit testing and how to implement simple tests with JUnit.
 - The purpose of the DAO pattern.

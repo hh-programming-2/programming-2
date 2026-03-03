@@ -1,6 +1,6 @@
 # Exam instructions
 
-The exam grade counts for 40% of the final grade, whereas the exercise grade counts for 60%. Passing the exam is required for a passing grade. The exam grade is calculated based on the percentage of exercise points in the following way:
+The exam grade counts for 40% of the final grade, whereas the exercise grade counts for 60%. **Passing the exam is required for a passing grade**. The exam grade is calculated based on the percentage of exercise points in the following way:
 
 | % of exam points | Exam grade |
 | ---------------- | ---------- |

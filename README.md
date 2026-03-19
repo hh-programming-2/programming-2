@@ -85,6 +85,8 @@ Git:
 Java in Visual Studio Code:
 
 - [How to set up Java in Visual Studio Code (YouTube)](https://www.youtube.com/watch?v=BB0gZFpukJU)
+  - Make sure that you have installed the "Extension Pack for Java" and "Test Runner for Java" extensions in Visual Studio Code
+- [Testing Java with Visual Studio Code](https://code.visualstudio.com/docs/java/java-testing#_features)
 
 Gradle:
 

@@ -25,7 +25,7 @@ Also, **using generative AI tools (e.g., ChatGPT or Copilot) to generate solutio
 ## 📅 Weekly schedule
 
 > [!IMPORTANT]
-> Course assessment is based on weekly exercise points. Submissions made after the weekly deadline won't earn points.
+> To confirm your course participation, **you must submit the first week's exercises before the deadline**. Course assessment is based on weekly exercise points. Submissions made after the weekly deadline won't earn points.
 
 The course requirements include weekly exercises covering different areas of the course. [GitHub Classroom](https://classroom.github.com/) will be used for the technical implementation of the exercises. Exercises must be submitted according to the schedule, and late submissions will generally not be accepted. In cases of force majeure, _extensions must be requested well in advance of the exercise deadline_.
 
@@ -54,9 +54,6 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 <div id="week-1"></div>
 
 ### Week 1: Version control and tools of the course
-
-> [!IMPORTANT]
-> To confirm your course participation, you must submit the first week's exercises before the deadline.
 
 > [!WARNING]  
 > Exercises require a Java version between 21 and 25.

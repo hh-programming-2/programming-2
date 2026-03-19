@@ -6,6 +6,7 @@ Welcome to the Programming 2 course! 👋 In this course, we will deepen our pro
 
 ## Contents
 
+- [Plagiarism & using generative AI tools](#-plagiarism--using-generative-ai-tools)
 - [Weekly schedule](#-weekly-schedule)
 - [Confirming the course participation](#-confirming-the-course-participation)
 - [Submitting exercises](#-submitting-exercises)

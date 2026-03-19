@@ -15,13 +15,16 @@ Welcome to the Programming 2 course! 👋 In this course, we will deepen our pro
 - [Using sources of information](#-using-sources-of-information)
 - [Prerequisites](#-prerequisites)
 
+## 🤖 Plagiarism & using generative AI tools
+
+**Copying code from other students is strictly forbidden, and automated plagiarism checks are used to detect it**. Systematic plagiarism will lead to a failing grade and a report of cheating.
+
+Also, **using generative AI tools (e.g., ChatGPT or Copilot) to generate solutions directly is strictly forbidden and considered plagiarism**. If you are using Visual Studio Code's GitHub Copilot extension or some other code generation autocomplete extension, make sure they are disabled. Instead, you should use generative AI tools to ask advice, such as "How to filter items in a stream using Java" or "What is the purpose of interfaces in Java". Use these tools to **improve your learning, not replace your thinking**.
+
 ## 📅 Weekly schedule
 
 > [!IMPORTANT]
 > Course assessment is based on weekly exercise points. Submissions made after the weekly deadline won't earn points.
-
-> [!CAUTION]
-> Using generative AI tools (e.g., ChatGPT or Copilot) to generate solutions directly is strictly forbidden and considered plagiarism. If you are using Visual Studio Code's GitHub Copilot extension or some other code generation autocomplete extension, make sure they are disabled. 
 
 The course requirements include weekly exercises covering different areas of the course. [GitHub Classroom](https://classroom.github.com/) will be used for the technical implementation of the exercises. Exercises must be submitted according to the schedule, and late submissions will generally not be accepted. In cases of force majeure, _extensions must be requested well in advance of the exercise deadline_.
 

@@ -11,6 +11,8 @@ The exam grade counts for 40% of the final grade, whereas the exercise grade cou
 | 50%- 59%         | 1          |
 | 0% - 49%         | 0          |
 
+Further assessment details can be found in the [material](https://github.com/hh-programming-2/programming-2?tab=readme-ov-file#-assesment).
+
 The exam consists of an essay, code interpretation, and small coding tasks. The exam is done in Moodle **without any external materials**. In small coding tasks, **Visual Studio Code or other editor won't be in use**, but the amount of code written won't be significant.
 
 The focus is on the following topics:

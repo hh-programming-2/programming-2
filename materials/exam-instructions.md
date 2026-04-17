@@ -25,6 +25,5 @@ The focus is on the following topics:
 
 The following topics are **excluded from the exam**:
 
-- Database programming-related code (JDBC).
 - Details how sorting algorithms, such as bubble sort, are implemented.
 - Final week, "Advanced and applied topics", related topics.

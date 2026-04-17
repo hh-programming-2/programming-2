@@ -124,7 +124,7 @@ function getStudentGrading(student) {
   const totalPoints =
     gitHelloWorldPoints + scaledWarmUpPoints + pointsAfterFirstWeek;
 
-  const grade = totalPoints < 8 ? 0 : Math.round(totalPoints / 8);
+  const grade = totalPoints < 8 ? 0 : Number((totalPoints / 8).toFixed(2));
 
   return {
     scaledPoints,

@@ -298,16 +298,28 @@ The course has weekly exercises that need to be submitted before the deadline. E
 > [!CAUTION]
 > Submissions made after the weekly deadline won't earn points, unless discussed otherwise before the deadline.
 
-The course assessment is based on the 0 to 5 grading scale. The final grade is calculated as the average of weekly exercise points (5 points a week, 8 weeks in total). Grades from individual exercises aren't rounded, but the possible rounding is done only once the final grade is calculated. At least 8 exercise points are required for a passing grade.
+The course assessment is based on the 0 to 5 grading scale. The final grade is based on the **weekly exercise submissions** and the **final exam points**. At least 8 exercise points and 50% of exam points are required for a passing grade.
+
+Based on the weekly exercise points, you'll get the **exercise grade** between 0 and 5 using the following formula:
 
 ```java
 // totalExercisePoints = week1Points + ... + week8Points
-public int calculateFinalGrade(double totalExercisePoints) {
+public double calculateExerciseGrade(double totalExercisePoints) {
   if (totalExercisePoints < 8) {
     return 0;
   }
 
-  return Math.round(totalExercisePoints / 8);
+  return totalExercisePoints / 8;
+}
+```
+
+Based on the exam points, you'll get and **exam grade** based on the [following formula](./materials/exam-instructions.md).
+
+60% of the final grade is based on the exercise grade and 40% on the exam grade. That is, the final grade is calculated using the following formula:
+
+```java
+public int calculateFinalGrade(int exerciseGrade, int examGrade) {
+  return Math.round(exerciseGrade * 0.6 + examGrade * 0.4);
 }
 ```
 

@@ -31,8 +31,8 @@ The course requirements include weekly exercises covering different areas of the
 
 There are two types of weekly sessions:
 <!-- TODO -->
-- Theory sessions on Wednesdays from 14:00 to 16:45. During these sessions, we will cover the week's topic.
-- Lab sessions on Fridays from 11:00 to 13:45 (lunch break at around 11:45 - 12:30). During these sessions, we will work on the week's exercises.
+- Theory sessions on Mondays from 8:00 to 10:45. During these sessions, we will cover the week's topic.
+- Lab sessions on Wednesdays from 8:00 to 10:45. During these sessions, we will work on the week's exercises.
 
 The course's attendance policies follow Haaga-Helia's common policies. Attendance should be marked on Moodle during each session.
 
@@ -42,14 +42,14 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 <!-- TODO -->
 | Week | Topic                                   | Deadline       |
 | ---- | --------------------------------------- | -------------- |
-| 1    | [Version control and tools of the course](#week-1) | 1.4. at 8:00 |
-| 2    | [The Map data structure](#week-2)                  | 8.4. at 8:00  |
-| 3    | [Unit testing](#week-3)                            | 15.4. at 8:00 |
-| 4    | [Inheritance and interfaces](#week-4)              | 22.4. at 8:00 |
-| 5    | [Streams and lambdas](#week-5)                     | 29.4. at 8:00 |
-| 6    | [JDBC & DAO](#week-6)                              | 6.5. at 8:00  |
-| 7    | [Data structures and algorithms](#week-7)          | 13.5. at 8:00 |
-| 8    | [Advanced and applied topics](#week-8)             | 17.5. at 23:59 |
+| 1    | [Version control and tools of the course](#week-1) | 26.10. at 8:00 |
+| 2    | [The Map data structure](#week-2)                  | 2.11. at 8:00  |
+| 3    | [Unit testing](#week-3)                            | 9.11. at 8:00 |
+| 4    | [Inheritance and interfaces](#week-4)              | 16.11. at 8:00 |
+| 5    | [Streams and lambdas](#week-5)                     | 23.11. at 8:00 |
+| 6    | [JDBC & DAO](#week-6)                              | 30.11. at 8:00  |
+| 7    | [Data structures and algorithms](#week-7)          | 7.12. at 8:00 |
+| 8    | Final exam & final exercise            | 13.12. at 23:59 |
 
 <div id="week-1"></div>
 

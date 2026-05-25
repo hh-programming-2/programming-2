@@ -263,7 +263,7 @@ Articles:
 
 <div id="week-8"></div>
 
-### Week 8: Advanced and applied topics
+### Week 8: Final exercise & advanced and applied topics
 
 At the end of the course, we will deepen and apply previous topics, exploring concepts such as concurrency and recursion. **This week's materials are optional and won't be included in the final exam**.
 

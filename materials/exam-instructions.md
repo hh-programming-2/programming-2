@@ -15,7 +15,7 @@ Further assessment details can be found in the [material](https://github.com/hh-
 
 The exam consists of an essay, code interpretation, and small coding tasks. The exam is done in Moodle **without any external materials**. In small coding tasks, **Visual Studio Code or other editor won't be in use**, but the amount of code written won't be significant.
 
-The focus is on the following topics:
+The focus is on the following topics, **study them well**:
 
 - The purpose of inheritance and interfaces, and how to use them in code.
 - The purpose of common data structures, such as `ArrayList`, `HashMap`, and arrays, and how to use them in code.

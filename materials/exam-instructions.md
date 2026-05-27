@@ -26,4 +26,5 @@ The focus is on the following topics:
 The following topics are **excluded from the exam**:
 
 - Details how sorting algorithms, such as bubble sort, are implemented.
+- Any SQL syntax.
 - Final week, "Advanced and applied topics", related topics.

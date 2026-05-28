@@ -17,9 +17,9 @@ The exam consists of an essay, code interpretation, and small coding tasks. The 
 
 The focus is on the following topics, **study them well**:
 
-- The purpose of inheritance and interfaces, and how to use them in code. Study the [materials](../README.md#week-4)
+- The purpose of inheritance and interfaces, and how to use them in code. Study the [materials](../README.md#week-4).
 - The purpose of `HashMap`, `ArrayList`, and array data structures, and how to use them in code. Study the [materials](../README.md#week-2).
-- The purpose of streams and lambdas and how to use the common stream operations, such as `map` and `filter`, in code. Study the [materials](../README.md#week-5)
+- The purpose of streams and lambdas and how to use the common stream operations, such as `map` and `filter`, in code. Study the [materials](../README.md#week-5).
 - The purpose of unit testing and how to implement simple unit tests with JUnit. Study the [materials](../README.md#week-3).
 - The purpose of the DAO pattern. Study the [materials](../README.md#week-6).
 

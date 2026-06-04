@@ -11,6 +11,7 @@ Welcome to the Programming 2 course! 👋 In this course, we will deepen our pro
 - [Confirming the course participation](#-confirming-the-course-participation)
 - [Submitting exercises](#-submitting-exercises)
 - [Assesment](#-assesment)
+  - [Exam](#-exam)
 - [Workload](#%EF%B8%8F-workload)
 - [Finding information](#-finding-information)
 - [Using sources of information](#-using-sources-of-information)
@@ -322,6 +323,10 @@ public int calculateFinalGrade(int exerciseGrade, int examGrade) {
   return Math.round(exerciseGrade * 0.6 + examGrade * 0.4);
 }
 ```
+
+### Exam
+
+Read the [exam instructions](./materials/exam-instructions.md) to learn more about the exam.
 
 ## ⏱️ Workload
 

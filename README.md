@@ -48,7 +48,7 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 | 3    | [Unit testing](#week-3)                            | 9.11. at 8:00 |
 | 4    | [Inheritance and interfaces](#week-4)              | 16.11. at 8:00 |
 | 5    | [Streams and lambdas](#week-5)                     | 23.11. at 8:00 |
-| 6    | [JDBC & DAO](#week-6)                              | 30.11. at 8:00  |
+| 6    | [Database programming](#week-6)                              | 30.11. at 8:00  |
 | 7    | [Data structures and algorithms](#week-7). See [exam instructions](./materials/exam-instructions.md) before next week's final exam!          | 7.12. at 8:00 |
 | 8    | ‼️ Final exam on 7.12. at 8:00. [Final exercise and optional advanced topics](#week-8)           | 13.12. at 23:59 |
 
@@ -203,7 +203,7 @@ This week, we will deepen our object-oriented programming skills by exploring in
 
 <div id="week-6"></div>
 
-### Week 6: JDBC & DAO
+### Week 6: Database programming
 
 This week, we will start by learning how to establish a connection to a database from a Java program and perform basic CRUD operations (Create, Read, Update, & Delete). We will also explore the DAO (Data Access Object) design pattern, which models both database operations and the data contained in the database using Java classes.
 

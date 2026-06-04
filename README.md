@@ -28,7 +28,7 @@ Also, **using generative AI tools (e.g., ChatGPT or Copilot) to generate solutio
 > [!IMPORTANT]
 > To confirm your course participation, **you must submit the first week's exercises before the deadline**. Course assessment is based on weekly exercise points. Submissions made after the weekly deadline won't earn points.
 
-The course requirements include weekly exercises covering different areas of the course. [GitHub Classroom](https://classroom.github.com/) will be used for the technical implementation of the exercises. Exercises must be submitted according to the schedule, and late submissions will generally not be accepted. In cases of force majeure, _extensions must be requested well in advance of the exercise deadline_.
+The course requirements include weekly exercises covering different areas of the course. Exercises are submitted to [GitHub](https://github.com/). **Exercises must be submitted according to the schedule**, and late submissions will generally not be accepted. In cases of force majeure, **extensions must be requested well in advance of the exercise deadline**.
 
 There are two types of weekly sessions:
 <!-- TODO -->

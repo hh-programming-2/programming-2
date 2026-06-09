@@ -6,29 +6,34 @@ Welcome to the Programming 2 course! 👋 In this course, we will deepen our pro
 
 ## Contents
 
+- [Plagiarism & using generative AI tools](#-plagiarism--using-generative-ai-tools)
 - [Weekly schedule](#-weekly-schedule)
 - [Confirming the course participation](#-confirming-the-course-participation)
 - [Submitting exercises](#-submitting-exercises)
 - [Assesment](#-assesment)
+  - [Exam](#exam)
 - [Workload](#%EF%B8%8F-workload)
 - [Finding information](#-finding-information)
 - [Using sources of information](#-using-sources-of-information)
 - [Prerequisites](#-prerequisites)
 
+## 🤖 Plagiarism & using generative AI tools
+
+**Copying code from other students is strictly forbidden, and automated plagiarism checks are used to detect it**. Systematic plagiarism will lead to a failing grade and a report of cheating.
+
+Also, **using generative AI tools (e.g., ChatGPT or Copilot) to generate solutions directly is strictly forbidden and considered plagiarism**. If you are using Visual Studio Code's GitHub Copilot extension or some other code generation autocomplete extension, make sure they are disabled. Instead, you should use generative AI tools to ask advice, such as "How to filter items in a stream using Java" or "What is the purpose of interfaces in Java". Use these tools to **improve your learning, not replace your thinking**.
+
 ## 📅 Weekly schedule
 
 > [!IMPORTANT]
-> Course assessment is based on weekly exercise points. Submissions made after the weekly deadline won't earn points.
+> To confirm your course participation, **you must submit the first week's exercises before the deadline**. Course assessment is based on weekly exercise points. Submissions made after the weekly deadline won't earn points.
 
-> [!CAUTION]
-> Using generative AI tools (e.g., ChatGPT or Copilot) to generate solutions directly is strictly forbidden and considered plagiarism. If you are using Visual Studio Code's GitHub Copilot extension or some other code generation autocomplete extension, make sure they are disabled. 
-
-The course requirements include weekly exercises covering different areas of the course. [GitHub Classroom](https://classroom.github.com/) will be used for the technical implementation of the exercises. Exercises must be submitted according to the schedule, and late submissions will generally not be accepted. In cases of force majeure, _extensions must be requested well in advance of the exercise deadline_.
+The course requirements include weekly exercises covering different areas of the course. Exercises are submitted to [GitHub](https://github.com/). **Exercises must be submitted according to the schedule**, and late submissions will generally not be accepted. In cases of force majeure, **extensions must be requested well in advance of the exercise deadline**.
 
 There are two types of weekly sessions:
 <!-- TODO -->
-- Theory sessions on Wednesdays from 14:00 to 16:45. During these sessions, we will cover the week's topic.
-- Lab sessions on Fridays from 11:00 to 13:45 (lunch break at around 11:45 - 12:30). During these sessions, we will work on the week's exercises.
+- Theory sessions on Mondays from 8:00 to 10:45. During these sessions, we will cover the week's topic.
+- Lab sessions on Wednesdays from 8:00 to 10:45. During these sessions, we will work on the week's exercises.
 
 The course's attendance policies follow Haaga-Helia's common policies. Attendance should be marked on Moodle during each session.
 
@@ -38,21 +43,18 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 <!-- TODO -->
 | Week | Topic                                   | Deadline       |
 | ---- | --------------------------------------- | -------------- |
-| 1    | [Version control and tools of the course](#week-1) | 1.4. at 8:00 |
-| 2    | [The Map data structure](#week-2)                  | 8.4. at 8:00  |
-| 3    | [Unit testing](#week-3)                            | 15.4. at 8:00 |
-| 4    | [Inheritance and interfaces](#week-4)              | 22.4. at 8:00 |
-| 5    | [Streams and lambdas](#week-5)                     | 29.4. at 8:00 |
-| 6    | [JDBC & DAO](#week-6)                              | 6.5. at 8:00  |
-| 7    | [Data structures and algorithms](#week-7)          | 13.5. at 8:00 |
-| 8    | [Advanced and applied topics](#week-8)             | 17.5. at 23:59 |
+| 1    | [Version control and tools of the course](#week-1) | 26.10. at 8:00 |
+| 2    | [The Map data structure](#week-2)                  | 2.11. at 8:00  |
+| 3    | [Unit testing](#week-3)                            | 9.11. at 8:00 |
+| 4    | [Inheritance and interfaces](#week-4)              | 16.11. at 8:00 |
+| 5    | [Streams and lambdas](#week-5)                     | 23.11. at 8:00 |
+| 6    | [Database programming](#week-6)                              | 30.11. at 8:00  |
+| 7    | [Data structures and algorithms](#week-7). See [exam instructions](./materials/exam-instructions.md) before next week's final exam!          | 7.12. at 8:00 |
+| 8    | ‼️ Final exam on 7.12. at 8:00. [Final exercise and optional advanced topics](#week-8)           | 13.12. at 23:59 |
 
 <div id="week-1"></div>
 
 ### Week 1: Version control and tools of the course
-
-> [!IMPORTANT]
-> To confirm your course participation, you must submit the first week's exercises before the deadline.
 
 > [!WARNING]  
 > Exercises require a Java version between 21 and 25.
@@ -84,6 +86,8 @@ Git:
 Java in Visual Studio Code:
 
 - [How to set up Java in Visual Studio Code (YouTube)](https://www.youtube.com/watch?v=BB0gZFpukJU)
+  - Make sure that you have installed the "Extension Pack for Java" and "Test Runner for Java" extensions in Visual Studio Code
+- [Testing Java with Visual Studio Code](https://code.visualstudio.com/docs/java/java-testing#_features)
 
 Gradle:
 
@@ -198,7 +202,7 @@ This week, we will deepen our object-oriented programming skills by exploring in
 
 <div id="week-6"></div>
 
-### Week 6: JDBC & DAO
+### Week 6: Database programming
 
 This week, we will start by learning how to establish a connection to a database from a Java program and perform basic CRUD operations (Create, Read, Update, & Delete). We will also explore the DAO (Data Access Object) design pattern, which models both database operations and the data contained in the database using Java classes.
 
@@ -259,25 +263,25 @@ Articles:
 
 <div id="week-8"></div>
 
-### Week 8: Advanced and applied topics
+### Week 8: Final exercise & advanced and applied topics
 
-At the end of the course, we will deepen and apply previous topics, exploring concepts such as concurrency and recursion.
-
-#### Recommended materials
-
-- [Virtual Threads (dev.java)](https://dev.java/learn/new-features/virtual-threads/)
-- [Lesson: Concurrency (docs.oracle.com)](https://docs.oracle.com/javase/tutorial/essential/concurrency/)
-- [Java Concurrency (baeldung.com)](https://www.baeldung.com/java-concurrency)
-- [Java Threads (w3schools.com)](https://www.w3schools.com/java/java_threads.asp)
-- [Lesson examples](https://github.com/hh-programming-2/lessons?tab=readme-ov-file#lesson-8-threads-and-recursion)
+At the end of the course, we will deepen and apply previous topics, exploring concepts such as concurrency and recursion. **This week's materials are optional and won't be included in the final exam**.
 
 #### Exercises
 
 > [!NOTE]  
 > You can find the exercise descriptions in the "Exercises" tab in Moodle.
 
-- Commit history
+- Commit history (the final exercise)
 - ⭐ Bonus exercise: Generics and Sudoku
+
+#### ⭐ Bonus: Further reading
+
+- [Virtual Threads (dev.java)](https://dev.java/learn/new-features/virtual-threads/)
+- [Lesson: Concurrency (docs.oracle.com)](https://docs.oracle.com/javase/tutorial/essential/concurrency/)
+- [Java Concurrency (baeldung.com)](https://www.baeldung.com/java-concurrency)
+- [Java Threads (w3schools.com)](https://www.w3schools.com/java/java_threads.asp)
+- [Lesson examples](https://github.com/hh-programming-2/lessons?tab=readme-ov-file#lesson-8-threads-and-recursion)
 
 ---
 
@@ -294,18 +298,34 @@ The course has weekly exercises that need to be submitted before the deadline. E
 > [!CAUTION]
 > Submissions made after the weekly deadline won't earn points, unless discussed otherwise before the deadline.
 
-The course assessment is based on the 0 to 5 grading scale. The final grade is calculated as the average of weekly exercise points (5 points a week, 8 weeks in total). Grades from individual exercises aren't rounded, but the possible rounding is done only once the final grade is calculated. At least 8 exercise points are required for a passing grade.
+The course assessment is based on the 0 to 5 grading scale. The final grade is based on the **weekly exercise submissions** and the **final exam points**. At least 8 exercise points and 50% of exam points are required for a passing grade.
+
+Based on the weekly exercise points, you'll get the **exercise grade** between 0 and 5 using the following formula:
 
 ```java
 // totalExercisePoints = week1Points + ... + week8Points
-public int calculateFinalGrade(double totalExercisePoints) {
+public double calculateExerciseGrade(double totalExercisePoints) {
   if (totalExercisePoints < 8) {
     return 0;
   }
 
-  return Math.round(totalExercisePoints / 8);
+  return totalExercisePoints / 8;
 }
 ```
+
+Based on the exam points, you'll get and **exam grade** based on the [following formula](./materials/exam-instructions.md).
+
+60% of the final grade is based on the exercise grade and 40% on the exam grade. That is, the final grade is calculated using the following formula:
+
+```java
+public int calculateFinalGrade(int exerciseGrade, int examGrade) {
+  return Math.round(exerciseGrade * 0.6 + examGrade * 0.4);
+}
+```
+
+### Exam
+
+Read the [exam instructions](./materials/exam-instructions.md) to learn more about the exam.
 
 ## ⏱️ Workload
 

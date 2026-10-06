@@ -30,11 +30,6 @@ Also, **using generative AI tools (e.g., ChatGPT or Copilot) to generate solutio
 
 The course requirements include weekly exercises covering different areas of the course. Exercises are submitted to [GitHub](https://github.com/). **Exercises must be submitted according to the schedule**, and late submissions will generally not be accepted. In cases of force majeure, **extensions must be requested well in advance of the exercise deadline**.
 
-There are two types of weekly sessions:
-<!-- TODO -->
-- Theory sessions on Mondays from 8:00 to 10:45. During these sessions, we will cover the week's topic.
-- Lab sessions on Wednesdays from 8:00 to 10:45. During these sessions, we will work on the week's exercises.
-
 The course's attendance policies follow Haaga-Helia's common policies. Attendance should be marked on Moodle during each session.
 
 The weekly topics and exercise deadlines can be found below. The exercise descriptions can be found in Moodle's "Exercises" tab.

@@ -314,6 +314,10 @@ Based on the exam points, you'll get and **exam grade** based on the [following 
 
 ```java
 public int calculateFinalGrade(int exerciseGrade, int examGrade) {
+  if (exerciseGrade < 1 || examGrade < 1) {
+    return 0;
+  }
+
   return Math.round(exerciseGrade * 0.6 + examGrade * 0.4);
 }
 ```

@@ -45,7 +45,7 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 | 5    | [Streams and lambdas](#week-5)                     | 23.11. at 8:00 |
 | 6    | [Database programming](#week-6)                              | 30.11. at 8:00  |
 | 7    | [Data structures and algorithms](#week-7). See [exam instructions](./materials/exam-instructions.md) before next week's final exam!          | 7.12. at 8:00 |
-| 8    | ‼️ Final exam on 9.12. at 8:00. [Final exercise and recap](#week-8)           | 13.12. at 23:59 |
+| 8    | ‼️ Final exam on 9.12. at 8:00. [Recap and final exercise](#week-8)           | 13.12. at 23:59 |
 
 <div id="week-1"></div>
 
@@ -258,9 +258,9 @@ Articles:
 
 <div id="week-8"></div>
 
-### Week 8: Final exercise & advanced and applied topics
+### Week 8: Recap and final exercise
 
-At the end of the course, we will deepen and apply previous topics, exploring concepts such as concurrency and recursion. **This week's materials are optional and won't be included in the final exam**.
+At the end of the course, we will deepen and apply previous topics in the final exercise. In addition, the optional materials Will be exploring concepts such as concurrency and recursion. **This week's materials are optional and won't be included in the final exam**.
 
 #### Exercises
 

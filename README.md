@@ -74,9 +74,8 @@ Git:
 
 - [What is version control? (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-version-control). Also, check the following [video](https://youtu.be/xQujH0ElTUg).
 - [What is Git (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-git)
-- [Install Git (Atlassian)](https://www.atlassian.com/git/tutorials/install-git)
 - [Git add](https://www.atlassian.com/git/tutorials/saving-changes)
-- [Git Cheat Sheet, pdf (GitHub)](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git Cheat Sheet, PDF (GitHub)](https://education.github.com/git-cheat-sheet-education.pdf)
 
 Java in Visual Studio Code:
 

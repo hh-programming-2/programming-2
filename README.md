@@ -45,7 +45,7 @@ The weekly topics and exercise deadlines can be found below. The exercise descri
 | 5    | [Streams and lambdas](#week-5)                     | 23.11. at 8:00 |
 | 6    | [Database programming](#week-6)                              | 30.11. at 8:00  |
 | 7    | [Data structures and algorithms](#week-7). See [exam instructions](./materials/exam-instructions.md) before next week's final exam!          | 7.12. at 8:00 |
-| 8    | ‼️ Final exam on 7.12. at 8:00. [Final exercise and optional advanced topics](#week-8)           | 13.12. at 23:59 |
+| 8    | ‼️ Final exam on 9.12. at 8:00. [Recap and final exercise](#week-8)           | 13.12. at 23:59 |
 
 <div id="week-1"></div>
 
@@ -74,9 +74,8 @@ Git:
 
 - [What is version control? (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-version-control). Also, check the following [video](https://youtu.be/xQujH0ElTUg).
 - [What is Git (Atlassian)](https://www.atlassian.com/git/tutorials/what-is-git)
-- [Install Git (Atlassian)](https://www.atlassian.com/git/tutorials/install-git)
 - [Git add](https://www.atlassian.com/git/tutorials/saving-changes)
-- [Git Cheat Sheet, pdf (GitHub)](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git Cheat Sheet, PDF (GitHub)](https://education.github.com/git-cheat-sheet-education.pdf)
 
 Java in Visual Studio Code:
 
@@ -156,6 +155,7 @@ This week, we will deepen our object-oriented programming skills by exploring in
 - [Objects, Classes, Interfaces, Packages, and Inheritance (dev.java)](https://dev.java/learn/oop/)
 - [Java Polymorphism Fully Explained In 7 Minutes (Coding with John, YouTube)](https://youtu.be/jhDUxynEQRI)
 - [Super Keyword in Java Full Tutorial - How to Use "super" (Coding with John, YouTube)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)
+- [Learn Interfaces In 6 Minutes (Bro Code, YouTube)](https://www.youtube.com/watch?v=c2sTQk9opO8)
 - [Lesson examples](https://github.com/hh-programming-2/lessons?tab=readme-ov-file#lesson-4-object-modelling-inheritance-and-interfaces)
 
 #### Exercises
@@ -258,9 +258,9 @@ Articles:
 
 <div id="week-8"></div>
 
-### Week 8: Final exercise & advanced and applied topics
+### Week 8: Recap and final exercise
 
-At the end of the course, we will deepen and apply previous topics, exploring concepts such as concurrency and recursion. **This week's materials are optional and won't be included in the final exam**.
+At the end of the course, we will deepen and apply previous topics in the final exercise. In addition, the optional materials Will be exploring concepts such as concurrency and recursion. **This week's materials are optional and won't be included in the final exam**.
 
 #### Exercises
 
@@ -314,6 +314,10 @@ Based on the exam points, you'll get and **exam grade** based on the [following 
 
 ```java
 public int calculateFinalGrade(int exerciseGrade, int examGrade) {
+  if (exerciseGrade < 1 || examGrade < 1) {
+    return 0;
+  }
+
   return Math.round(exerciseGrade * 0.6 + examGrade * 0.4);
 }
 ```

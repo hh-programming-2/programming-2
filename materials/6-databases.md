@@ -1,5 +1,13 @@
 # Database programming
 
+```mermaid
+flowchart LR
+    A["Java application"] --> B["JDBC API"]
+    B --> C["Driver manager"]
+    C --> D["Database driver"]
+    D --> E[("Database")]
+```
+
 This week, we will start by learning how to establish a connection to a database from a Java program and perform basic CRUD operations (Create, Read, Update, & Delete). We will also explore the DAO (Data Access Object) design pattern, which models both database operations and the data contained in the database using Java classes.
 
 ## Recommended materials

@@ -1,8 +1,8 @@
-# Advanced and applied topics
+# ⭐ Bonus: Advanced and applied topics
 
 At the end of the course, we will deepen and apply previous topics, exploring concepts such as concurrency and recursion. **This week's materials are optional and won't be included in the final exam**.
 
-## ⭐ Bonus: Further reading
+## Recommended materials
 
 - [Virtual Threads (dev.java)](https://dev.java/learn/new-features/virtual-threads/)
 - [Lesson: Concurrency (docs.oracle.com)](https://docs.oracle.com/javase/tutorial/essential/concurrency/)
